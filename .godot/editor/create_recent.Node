@@ -1,0 +1,12 @@
+AnimationTree
+AnimationPlayer
+Node
+Button
+Label
+Control
+CanvasLayer
+CollisionShape2D
+AnimatedSprite2D
+Area2D
+Sprite2D
+Node2D

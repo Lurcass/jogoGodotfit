@@ -1,0 +1,1172 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1724669488
+AnimatedSprite2D.gd::GDScript::-1::1723641687::0::1::::<>AnimatedSprite2D<>::
+Armadilha.gd::GDScript::-1::1724334994::0::1::::<>Area2D<>::
+CanvasLayer.gd::GDScript::-1::1724334661::0::1::::<>CanvasLayer<>::
+coletavel2.gd::GDScript::-1::1724334994::0::1::::<>Area2D<>::
+coletavel.gd::GDScript::-1::1723643694::0::1::::<>Area2D<>::
+CollisionShape2D.gd::GDScript::-1::1723641687::0::1::::<>CollisionShape2D<>::
+Control.gd::GDScript::-1::1724152724::0::1::::<>Control<>::
+Global.gd::GDScript::-1::1723644680::0::1::::<>Node<>::
+leve_01.gd::GDScript::-1::1724334661::0::1::::<>Node2D<>::
+MelanciaNormal2.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal3.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal4.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal5.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal6.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal7.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal8.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal9.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal10.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal11.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal12.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal13.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal14.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal15.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal16.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal17.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+MelanciaNormal18.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
+menu.tscn::PackedScene::8663534642739189556::1724249613::0::1::::<><>::res://CanvasLayer.gd
+Player.gd::GDScript::-1::1724335241::0::1::::<>CharacterBody2D<>::
+::res://Assets_aula1/::1723642235
+::res://Assets_aula1/Armadilha/::1723642241
+On (38x38).png::CompressedTexture2D::5275999399944179905::1723642241::1723642235::1::::<><>::
+::res://Assets_aula1/Assets_aula1/::1723642235
+::res://Assets_aula1/Assets_aula1/Armadilha/::1723642241
+On (38x38).png::CompressedTexture2D::2707974738267552942::1723642241::1723642235::1::::<><>::
+::res://Assets_aula1/Assets_aula1/Character/::1723642241
+Fall (32x32).png::CompressedTexture2D::4211372790665391303::1723642241::1723642235::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::1130673404725621057::1723642241::1723642235::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::6865265021480853424::1723642241::1723642235::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::4971718921435458791::1723642241::1723642235::1::::<><>::
+Run (32x32).png::CompressedTexture2D::2134790841292036252::1723642241::1723642235::1::::<><>::
+::res://Assets_aula1/Assets_aula1/Coletavel/::1723642241
+Collected.png::CompressedTexture2D::1547862054081217330::1723642241::1723642235::1::::<><>::
+MelonBom - Mal.png::CompressedTexture2D::5661033351114685354::1723642241::1723642235::1::::<><>::
+MelonBom.png::CompressedTexture2D::7648070864012031842::1723642241::1723642235::1::::<><>::
+::res://Assets_aula1/Assets_aula1/Terrain/::1723642241
+Terrain (16x16).png::CompressedTexture2D::8756026337580939200::1723642241::1723642235::1::::<><>::
+::res://Assets_aula1/Character/::1723642241
+Fall (32x32).png::CompressedTexture2D::1129795627602123382::1723642241::1723642235::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::3276565705531852617::1723642241::1723642235::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::4499196384488451608::1723642241::1723642235::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::8394555705872092472::1723642241::1723642235::1::::<><>::
+Run (32x32).png::CompressedTexture2D::339739958579498938::1723642241::1723642235::1::::<><>::
+::res://Assets_aula1/Coletavel/::1723642241
+Collected.png::CompressedTexture2D::8786655666374692589::1723642241::1723642235::1::::<><>::
+MelonBom - Mal.png::CompressedTexture2D::7352928152955250437::1723642241::1723642235::1::::<><>::
+MelonBom.png::CompressedTexture2D::5260594243157684058::1723642241::1723642235::1::::<><>::
+::res://Assets_aula1/Terrain/::1723642241
+Terrain (16x16).png::CompressedTexture2D::751145777491939131::1723642241::1723642235::1::::<><>::
+::res://Nova pasta/::1724335819
+aula01.tscn::PackedScene::8029405789051985729::1724335819::0::1::::<><>::res://leve_01.gd<>res://Player.gd<>uid://qdjtlw5fbb71::::res://Assets_aula1/Character/Fall (32x32).png<>uid://bmxgs8tvmcdpp::::res://Assets_aula1/Character/Hit (32x32).png<>uid://b5dpdv26h2b2w::::res://Assets_aula1/Character/Idle (32x32).png<>uid://drundus3xyj0s::::res://Assets_aula1/Character/Jump (32x32).png<>uid://e3tp5n46n3tm::::res://Assets_aula1/Character/Run (32x32).png<>uid://kx4i47wmgxqp::::res://Assets_aula1/Terrain/Terrain (16x16).png<>res://coletavel.gd<>uid://dxgk617lmw4qj::::res://Assets_aula1/Coletavel/Collected.png<>uid://cg7jhox7hlqas::::res://Assets_aula1/Coletavel/MelonBom.png<>res://MelanciaNormal2.gd<>res://MelanciaNormal3.gd<>res://MelanciaNormal4.gd<>res://MelanciaNormal5.gd<>res://MelanciaNormal6.gd<>res://MelanciaNormal7.gd<>res://MelanciaNormal8.gd<>res://MelanciaNormal9.gd<>res://MelanciaNormal10.gd<>res://MelanciaNormal11.gd<>res://MelanciaNormal12.gd<>res://MelanciaNormal13.gd<>res://MelanciaNormal14.gd<>res://MelanciaNormal15.gd<>res://MelanciaNormal16.gd<>res://MelanciaNormal17.gd<>res://MelanciaNormal18.gd<>res://coletavel2.gd<>uid://dc02wggbrr7gb::::res://Assets_aula1/Coletavel/MelonBom - Mal.png<>res://Armadilha.gd<>uid://chfy662u6hsxd::::res://Assets_aula1/Armadilha/On (38x38).png<>uid://bkfyq1xgscig1::::res://Pixel Adventure 1/Free/Items/Fruits/Collected.png<>uid://bjjm33uknxisc::::res://Pixel Adventure 1/Free/Items/Fruits/Strawberry.png<>uid://dvoxfdgbmwc2g::::res://menu.tscn<>res://Control.gd
+menu.tscn::PackedScene::2814892589249635107::1724335819::0::1::::<><>::res://CanvasLayer.gd
+::res://Pirate Bomb/::1724159621
+::res://Pirate Bomb/Aseprite Files/::1724159621
+::res://Pirate Bomb/Sprites/::1724159624
+::res://Pirate Bomb/Sprites/1-Player-Bomb Guy/::1724159622
+::res://Pirate Bomb/Sprites/1-Player-Bomb Guy/1-Idle/::1724159626
+1.png::CompressedTexture2D::1698837085737730247::1724159621::1724159626::1::::<><>::
+2.png::CompressedTexture2D::1630453442495915504::1724159621::1724159626::1::::<><>::
+3.png::CompressedTexture2D::2375157971566486636::1724159621::1724159626::1::::<><>::
+4.png::CompressedTexture2D::7614294101148277523::1724159621::1724159626::1::::<><>::
+5.png::CompressedTexture2D::1102411989029573019::1724159621::1724159626::1::::<><>::
+6.png::CompressedTexture2D::1372631571350429104::1724159621::1724159626::1::::<><>::
+7.png::CompressedTexture2D::6103241015674542853::1724159621::1724159626::1::::<><>::
+8.png::CompressedTexture2D::2319148112744265537::1724159621::1724159626::1::::<><>::
+9.png::CompressedTexture2D::936732907141417029::1724159621::1724159626::1::::<><>::
+10.png::CompressedTexture2D::2679645232436334999::1724159621::1724159626::1::::<><>::
+11.png::CompressedTexture2D::8864392229086062962::1724159621::1724159626::1::::<><>::
+12.png::CompressedTexture2D::4525187779219212006::1724159621::1724159626::1::::<><>::
+13.png::CompressedTexture2D::3118152970173230269::1724159621::1724159626::1::::<><>::
+14.png::CompressedTexture2D::9137009895826864444::1724159621::1724159626::1::::<><>::
+15.png::CompressedTexture2D::5773502627946076269::1724159621::1724159626::1::::<><>::
+16.png::CompressedTexture2D::3486220872708463590::1724159621::1724159626::1::::<><>::
+17.png::CompressedTexture2D::8537841772748896617::1724159621::1724159626::1::::<><>::
+18.png::CompressedTexture2D::2802313341992925875::1724159621::1724159626::1::::<><>::
+19.png::CompressedTexture2D::8373401350232282258::1724159621::1724159626::1::::<><>::
+20.png::CompressedTexture2D::5224954892883942703::1724159621::1724159626::1::::<><>::
+21.png::CompressedTexture2D::6465710756139988447::1724159621::1724159626::1::::<><>::
+22.png::CompressedTexture2D::2960623335709896829::1724159621::1724159626::1::::<><>::
+23.png::CompressedTexture2D::4659149902006734817::1724159621::1724159626::1::::<><>::
+24.png::CompressedTexture2D::7643562726773002699::1724159621::1724159626::1::::<><>::
+25.png::CompressedTexture2D::3981033505927795564::1724159621::1724159626::1::::<><>::
+26.png::CompressedTexture2D::756080842518590935::1724159621::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/1-Player-Bomb Guy/2-Run/::1724159626
+1.png::CompressedTexture2D::2547259293231726413::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::7700019292805188639::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::1387287522320729569::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::9179119715797716400::1724159622::1724159626::1::::<><>::
+5.png::CompressedTexture2D::1476822143114095351::1724159622::1724159626::1::::<><>::
+6.png::CompressedTexture2D::7447399827413495686::1724159622::1724159626::1::::<><>::
+7.png::CompressedTexture2D::149389564621628704::1724159622::1724159626::1::::<><>::
+8.png::CompressedTexture2D::534913113110846755::1724159622::1724159626::1::::<><>::
+9.png::CompressedTexture2D::7650702486186294578::1724159622::1724159626::1::::<><>::
+10.png::CompressedTexture2D::5889420923680771903::1724159622::1724159626::1::::<><>::
+11.png::CompressedTexture2D::2759252440342707380::1724159622::1724159626::1::::<><>::
+12.png::CompressedTexture2D::1745736897620421179::1724159622::1724159626::1::::<><>::
+13.png::CompressedTexture2D::6738149479303210721::1724159622::1724159626::1::::<><>::
+14.png::CompressedTexture2D::2889258678772862016::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/1-Player-Bomb Guy/3-Jump Anticipation/::1724159626
+1.png::CompressedTexture2D::953191743075872207::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/1-Player-Bomb Guy/4-Jump/::1724159626
+1.png::CompressedTexture2D::505739306410970528::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::6601511123745214254::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::1072486094229859110::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::1553455222076273816::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/1-Player-Bomb Guy/5-Fall/::1724159626
+1.png::CompressedTexture2D::5324144155135294333::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::1678357645853190633::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/1-Player-Bomb Guy/6-Ground/::1724159626
+1.png::CompressedTexture2D::6741017613536121831::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::3185945996324882015::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::8638067426753345770::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/1-Player-Bomb Guy/7-Hit/::1724159626
+1.png::CompressedTexture2D::3596682743489815470::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::4465016893579867369::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::6029310389155481206::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::4117373810543611854::1724159622::1724159626::1::::<><>::
+5.png::CompressedTexture2D::9132474454910241475::1724159622::1724159626::1::::<><>::
+6.png::CompressedTexture2D::3441663929768166346::1724159622::1724159626::1::::<><>::
+7.png::CompressedTexture2D::5465197772789413383::1724159622::1724159626::1::::<><>::
+8.png::CompressedTexture2D::8891148797499625677::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/1-Player-Bomb Guy/8-Dead Hit/::1724159626
+1.png::CompressedTexture2D::8786719230512834025::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::6742261457825669377::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::2347023340108532300::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::9044391255774367458::1724159622::1724159626::1::::<><>::
+5.png::CompressedTexture2D::1121211536685825312::1724159622::1724159626::1::::<><>::
+6.png::CompressedTexture2D::7260101726168642753::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/1-Player-Bomb Guy/9-Dead Ground/::1724159626
+1.png::CompressedTexture2D::974098279723486257::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::440825271201470231::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::6199777110627359709::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::3218055149006699989::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/1-Player-Bomb Guy/10-Door In/::1724159626
+1.png::CompressedTexture2D::7881357827446351298::1724159621::1724159626::1::::<><>::
+2.png::CompressedTexture2D::8483477405282104695::1724159621::1724159626::1::::<><>::
+3.png::CompressedTexture2D::8804007554234947720::1724159621::1724159626::1::::<><>::
+4.png::CompressedTexture2D::1668097159403436074::1724159621::1724159626::1::::<><>::
+5.png::CompressedTexture2D::3479512315125825551::1724159621::1724159626::1::::<><>::
+6.png::CompressedTexture2D::895492670301098468::1724159621::1724159626::1::::<><>::
+7.png::CompressedTexture2D::7417062670160953960::1724159621::1724159626::1::::<><>::
+8.png::CompressedTexture2D::322957766163916182::1724159621::1724159626::1::::<><>::
+9.png::CompressedTexture2D::330155845359258330::1724159621::1724159626::1::::<><>::
+10.png::CompressedTexture2D::8850319518697443950::1724159621::1724159626::1::::<><>::
+11.png::CompressedTexture2D::3030869008059571862::1724159621::1724159626::1::::<><>::
+12.png::CompressedTexture2D::4346183021828091057::1724159621::1724159626::1::::<><>::
+13.png::CompressedTexture2D::3004369735179667203::1724159621::1724159626::1::::<><>::
+14.png::CompressedTexture2D::5096370419285514339::1724159621::1724159626::1::::<><>::
+15.png::CompressedTexture2D::6863355923011858424::1724159621::1724159626::1::::<><>::
+16.png::CompressedTexture2D::7858254397114841334::1724159621::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/1-Player-Bomb Guy/11-Door Out/::1724159626
+1.png::CompressedTexture2D::6920674959861265367::1724159621::1724159626::1::::<><>::
+2.png::CompressedTexture2D::4394699464097218020::1724159621::1724159626::1::::<><>::
+3.png::CompressedTexture2D::8058882963219266174::1724159621::1724159626::1::::<><>::
+4.png::CompressedTexture2D::6321443699600194087::1724159622::1724159626::1::::<><>::
+5.png::CompressedTexture2D::3429648296375331964::1724159622::1724159626::1::::<><>::
+6.png::CompressedTexture2D::4576318466510221517::1724159622::1724159626::1::::<><>::
+7.png::CompressedTexture2D::451088464546965049::1724159622::1724159626::1::::<><>::
+8.png::CompressedTexture2D::3571386433841666137::1724159622::1724159626::1::::<><>::
+9.png::CompressedTexture2D::2689111403251819365::1724159622::1724159626::1::::<><>::
+10.png::CompressedTexture2D::6735224686387112579::1724159621::1724159626::1::::<><>::
+11.png::CompressedTexture2D::6702888150861277258::1724159621::1724159626::1::::<><>::
+12.png::CompressedTexture2D::3897675625656818691::1724159621::1724159626::1::::<><>::
+13.png::CompressedTexture2D::5574303076674480076::1724159621::1724159626::1::::<><>::
+14.png::CompressedTexture2D::2221112990716318339::1724159621::1724159626::1::::<><>::
+15.png::CompressedTexture2D::1000494649631120823::1724159621::1724159626::1::::<><>::
+16.png::CompressedTexture2D::1572874874562176377::1724159621::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/2-Enemy-Bald Pirate/::1724159622
+::res://Pirate Bomb/Sprites/2-Enemy-Bald Pirate/1-Idle/::1724159626
+1.png::CompressedTexture2D::5844498297097388538::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::976759616214084751::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::6569266588961814549::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::1048031652484654852::1724159622::1724159626::1::::<><>::
+5.png::CompressedTexture2D::6221163918529469016::1724159622::1724159626::1::::<><>::
+6.png::CompressedTexture2D::5862516239518782182::1724159622::1724159626::1::::<><>::
+7.png::CompressedTexture2D::2829635930007990607::1724159622::1724159626::1::::<><>::
+8.png::CompressedTexture2D::3586754177239103091::1724159622::1724159626::1::::<><>::
+9.png::CompressedTexture2D::5326726241746730614::1724159622::1724159626::1::::<><>::
+10.png::CompressedTexture2D::6131196430097674431::1724159622::1724159626::1::::<><>::
+11.png::CompressedTexture2D::7777634918180975914::1724159622::1724159626::1::::<><>::
+12.png::CompressedTexture2D::7706702406362623515::1724159622::1724159626::1::::<><>::
+13.png::CompressedTexture2D::6027458579772455877::1724159622::1724159626::1::::<><>::
+14.png::CompressedTexture2D::7800988610725905251::1724159622::1724159626::1::::<><>::
+15.png::CompressedTexture2D::1937250051586515745::1724159622::1724159626::1::::<><>::
+16.png::CompressedTexture2D::2373203767028777121::1724159622::1724159626::1::::<><>::
+17.png::CompressedTexture2D::5019338647309057598::1724159622::1724159626::1::::<><>::
+18.png::CompressedTexture2D::8524827838741197888::1724159622::1724159626::1::::<><>::
+19.png::CompressedTexture2D::8148926710908351682::1724159622::1724159626::1::::<><>::
+20.png::CompressedTexture2D::9018499511675110592::1724159622::1724159626::1::::<><>::
+21.png::CompressedTexture2D::7219812869238635933::1724159622::1724159626::1::::<><>::
+22.png::CompressedTexture2D::3727528239651771791::1724159622::1724159626::1::::<><>::
+23.png::CompressedTexture2D::3587505805898258121::1724159622::1724159626::1::::<><>::
+24.png::CompressedTexture2D::1145671968771115620::1724159622::1724159626::1::::<><>::
+25.png::CompressedTexture2D::9159310864525065483::1724159622::1724159626::1::::<><>::
+26.png::CompressedTexture2D::8904993525196147133::1724159622::1724159626::1::::<><>::
+27.png::CompressedTexture2D::5338235666911571335::1724159622::1724159626::1::::<><>::
+28.png::CompressedTexture2D::133535311351446787::1724159622::1724159626::1::::<><>::
+29.png::CompressedTexture2D::229359950077154918::1724159622::1724159626::1::::<><>::
+30.png::CompressedTexture2D::5556849433181592093::1724159622::1724159626::1::::<><>::
+31.png::CompressedTexture2D::1871144123766368903::1724159622::1724159626::1::::<><>::
+32.png::CompressedTexture2D::2026651727960804347::1724159622::1724159626::1::::<><>::
+33.png::CompressedTexture2D::598709961791265491::1724159622::1724159626::1::::<><>::
+34.png::CompressedTexture2D::3069149418578766782::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/2-Enemy-Bald Pirate/2-Run/::1724159626
+1.png::CompressedTexture2D::2947663022846192822::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::6541380544731281831::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::1497111414920102639::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::8811695368685459846::1724159622::1724159626::1::::<><>::
+5.png::CompressedTexture2D::6122384942157163922::1724159622::1724159626::1::::<><>::
+6.png::CompressedTexture2D::1716269540906512570::1724159622::1724159626::1::::<><>::
+7.png::CompressedTexture2D::3922549494072959470::1724159622::1724159626::1::::<><>::
+8.png::CompressedTexture2D::4714454015099772239::1724159622::1724159626::1::::<><>::
+9.png::CompressedTexture2D::3318142659916365385::1724159622::1724159626::1::::<><>::
+10.png::CompressedTexture2D::2324436965631690712::1724159622::1724159626::1::::<><>::
+11.png::CompressedTexture2D::6946961901614536016::1724159622::1724159626::1::::<><>::
+12.png::CompressedTexture2D::9198747353004918493::1724159622::1724159626::1::::<><>::
+13.png::CompressedTexture2D::2106794177391729473::1724159622::1724159626::1::::<><>::
+14.png::CompressedTexture2D::7469067554723996679::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/2-Enemy-Bald Pirate/3-Jump Anticipation/::1724159626
+1.png::CompressedTexture2D::247327020577079599::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/2-Enemy-Bald Pirate/4-Jump/::1724159626
+1.png::CompressedTexture2D::2095869285595603881::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::1923471482183461792::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::3425800277587880841::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::7939374223794243070::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/2-Enemy-Bald Pirate/5-Fall/::1724159626
+1.png::CompressedTexture2D::2774714858361721636::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::149860902912471976::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/2-Enemy-Bald Pirate/6-Ground/::1724159626
+1.png::CompressedTexture2D::373868793860809801::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::5385054288335935946::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::7364680909137651105::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/2-Enemy-Bald Pirate/7-Attack/::1724159626
+1.png::CompressedTexture2D::938243005972762852::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::6967748777852997564::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::4634132509087602823::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::1924315859888341450::1724159622::1724159626::1::::<><>::
+5.png::CompressedTexture2D::279981274370639608::1724159622::1724159626::1::::<><>::
+6.png::CompressedTexture2D::1496324406135463066::1724159622::1724159626::1::::<><>::
+7.png::CompressedTexture2D::1846601965527334991::1724159622::1724159626::1::::<><>::
+8.png::CompressedTexture2D::3185535881206813067::1724159622::1724159626::1::::<><>::
+9.png::CompressedTexture2D::1000806872297367081::1724159622::1724159626::1::::<><>::
+10.png::CompressedTexture2D::5493708781925049491::1724159622::1724159626::1::::<><>::
+11.png::CompressedTexture2D::1640861657967529634::1724159622::1724159626::1::::<><>::
+12.png::CompressedTexture2D::2865664429807380223::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/2-Enemy-Bald Pirate/8-Hit/::1724159626
+1.png::CompressedTexture2D::4164903127481720552::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::4027075035840411778::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::3277619047626204131::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::3961178347658564459::1724159622::1724159626::1::::<><>::
+5.png::CompressedTexture2D::2054575718607383631::1724159622::1724159626::1::::<><>::
+6.png::CompressedTexture2D::6114559677257571169::1724159622::1724159626::1::::<><>::
+7.png::CompressedTexture2D::5812481153820721303::1724159622::1724159626::1::::<><>::
+8.png::CompressedTexture2D::1591482095734705995::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/2-Enemy-Bald Pirate/9-Dead Hit/::1724159626
+1.png::CompressedTexture2D::8749291688178999166::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::8786774501162335573::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::4049423557810638706::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::3177145524347507472::1724159622::1724159626::1::::<><>::
+5.png::CompressedTexture2D::5102461943269939492::1724159622::1724159626::1::::<><>::
+6.png::CompressedTexture2D::7784885570371164131::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/2-Enemy-Bald Pirate/10-Dead Ground/::1724159626
+1.png::CompressedTexture2D::2987454586853541020::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::4157175830850431885::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::3240322071854626817::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::7600070420874593414::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/3-Enemy-Cucumber/::1724159622
+::res://Pirate Bomb/Sprites/3-Enemy-Cucumber/1-Idle/::1724159627
+1.png::CompressedTexture2D::1884292623097047012::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::496661315461408374::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::1304041953181127739::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::1383290776263890518::1724159622::1724159626::1::::<><>::
+5.png::CompressedTexture2D::5868642369112914305::1724159622::1724159626::1::::<><>::
+6.png::CompressedTexture2D::1828919995767973256::1724159622::1724159626::1::::<><>::
+7.png::CompressedTexture2D::8610042310885223093::1724159622::1724159626::1::::<><>::
+8.png::CompressedTexture2D::5915408985800730967::1724159622::1724159627::1::::<><>::
+9.png::CompressedTexture2D::3314277768759964548::1724159622::1724159627::1::::<><>::
+10.png::CompressedTexture2D::5496409177671546398::1724159622::1724159627::1::::<><>::
+11.png::CompressedTexture2D::8112971741338755936::1724159622::1724159627::1::::<><>::
+12.png::CompressedTexture2D::1785335464368832934::1724159622::1724159627::1::::<><>::
+13.png::CompressedTexture2D::6788772260433729751::1724159622::1724159627::1::::<><>::
+14.png::CompressedTexture2D::1554161988130434673::1724159622::1724159627::1::::<><>::
+15.png::CompressedTexture2D::5541474859711440694::1724159622::1724159627::1::::<><>::
+16.png::CompressedTexture2D::1626915223388342320::1724159622::1724159627::1::::<><>::
+17.png::CompressedTexture2D::1025949958756585411::1724159622::1724159627::1::::<><>::
+18.png::CompressedTexture2D::5945260346566363448::1724159622::1724159627::1::::<><>::
+19.png::CompressedTexture2D::7463784330439700476::1724159622::1724159627::1::::<><>::
+20.png::CompressedTexture2D::7440003898654715905::1724159622::1724159627::1::::<><>::
+21.png::CompressedTexture2D::6251789799788222785::1724159622::1724159627::1::::<><>::
+22.png::CompressedTexture2D::2839306162604412465::1724159622::1724159627::1::::<><>::
+23.png::CompressedTexture2D::5148386533070605193::1724159622::1724159627::1::::<><>::
+24.png::CompressedTexture2D::3337279310017314347::1724159622::1724159627::1::::<><>::
+25.png::CompressedTexture2D::4289357263735277444::1724159622::1724159627::1::::<><>::
+26.png::CompressedTexture2D::2076932866674790637::1724159622::1724159627::1::::<><>::
+27.png::CompressedTexture2D::2523457443844248088::1724159622::1724159627::1::::<><>::
+28.png::CompressedTexture2D::231496971610860929::1724159622::1724159627::1::::<><>::
+29.png::CompressedTexture2D::6020969822481114482::1724159622::1724159627::1::::<><>::
+30.png::CompressedTexture2D::5431921912902017948::1724159622::1724159627::1::::<><>::
+31.png::CompressedTexture2D::7906358815550027460::1724159622::1724159627::1::::<><>::
+32.png::CompressedTexture2D::9044067402163152349::1724159622::1724159627::1::::<><>::
+33.png::CompressedTexture2D::2397819122835441554::1724159622::1724159627::1::::<><>::
+34.png::CompressedTexture2D::3260849219946812188::1724159622::1724159627::1::::<><>::
+35.png::CompressedTexture2D::1542599577081747515::1724159622::1724159627::1::::<><>::
+36.png::CompressedTexture2D::3791141298152168034::1724159622::1724159627::1::::<><>::
+::res://Pirate Bomb/Sprites/3-Enemy-Cucumber/2-Run/::1724159627
+1.png::CompressedTexture2D::7897549502084351585::1724159622::1724159627::1::::<><>::
+2.png::CompressedTexture2D::5140487474581654947::1724159622::1724159627::1::::<><>::
+3.png::CompressedTexture2D::299288319089376224::1724159622::1724159627::1::::<><>::
+4.png::CompressedTexture2D::1824768916771097919::1724159622::1724159627::1::::<><>::
+5.png::CompressedTexture2D::428387246933892790::1724159622::1724159627::1::::<><>::
+6.png::CompressedTexture2D::1629917140819579324::1724159622::1724159627::1::::<><>::
+7.png::CompressedTexture2D::8615250729536596535::1724159622::1724159627::1::::<><>::
+8.png::CompressedTexture2D::4653684061445393477::1724159622::1724159627::1::::<><>::
+9.png::CompressedTexture2D::1910615706956862628::1724159622::1724159627::1::::<><>::
+10.png::CompressedTexture2D::539880639261722513::1724159622::1724159627::1::::<><>::
+11.png::CompressedTexture2D::2957518955696500476::1724159622::1724159627::1::::<><>::
+12.png::CompressedTexture2D::7821066374951962499::1724159622::1724159627::1::::<><>::
+::res://Pirate Bomb/Sprites/3-Enemy-Cucumber/3-Jump Anticipation/::1724159627
+1.png::CompressedTexture2D::4123378374757996231::1724159622::1724159627::1::::<><>::
+::res://Pirate Bomb/Sprites/3-Enemy-Cucumber/4-Jump/::1724159627
+1.png::CompressedTexture2D::6181067485317670294::1724159622::1724159627::1::::<><>::
+2.png::CompressedTexture2D::1070092397676427360::1724159622::1724159627::1::::<><>::
+3.png::CompressedTexture2D::8814830937656804901::1724159622::1724159627::1::::<><>::
+4.png::CompressedTexture2D::5635682569896766389::1724159622::1724159627::1::::<><>::
+::res://Pirate Bomb/Sprites/3-Enemy-Cucumber/5-Fall/::1724159627
+1.png::CompressedTexture2D::7182018681163795069::1724159622::1724159627::1::::<><>::
+2.png::CompressedTexture2D::8177913807516068891::1724159622::1724159627::1::::<><>::
+::res://Pirate Bomb/Sprites/3-Enemy-Cucumber/6-Ground/::1724159627
+1.png::CompressedTexture2D::6917977942879358433::1724159622::1724159627::1::::<><>::
+2.png::CompressedTexture2D::1369614311710933425::1724159622::1724159627::1::::<><>::
+3.png::CompressedTexture2D::7016764564137782503::1724159622::1724159627::1::::<><>::
+::res://Pirate Bomb/Sprites/3-Enemy-Cucumber/7-Attack/::1724159627
+1.png::CompressedTexture2D::7560375534474022092::1724159622::1724159627::1::::<><>::
+2.png::CompressedTexture2D::988338470390550350::1724159622::1724159627::1::::<><>::
+3.png::CompressedTexture2D::2604600326969827073::1724159622::1724159627::1::::<><>::
+4.png::CompressedTexture2D::7407144263805606067::1724159622::1724159627::1::::<><>::
+5.png::CompressedTexture2D::4311899065948113489::1724159622::1724159627::1::::<><>::
+6.png::CompressedTexture2D::4143381729459660569::1724159622::1724159627::1::::<><>::
+7.png::CompressedTexture2D::2700334768178484076::1724159622::1724159627::1::::<><>::
+8.png::CompressedTexture2D::1852911716558014379::1724159622::1724159627::1::::<><>::
+9.png::CompressedTexture2D::5335444562671638491::1724159622::1724159627::1::::<><>::
+10.png::CompressedTexture2D::3874094281751345432::1724159622::1724159627::1::::<><>::
+11.png::CompressedTexture2D::6758051570409763844::1724159622::1724159627::1::::<><>::
+::res://Pirate Bomb/Sprites/3-Enemy-Cucumber/8-Blow the wick/::1724159627
+1.png::CompressedTexture2D::2110577531320616964::1724159622::1724159627::1::::<><>::
+2.png::CompressedTexture2D::6018526904854857738::1724159622::1724159627::1::::<><>::
+3.png::CompressedTexture2D::6573261776860286269::1724159622::1724159627::1::::<><>::
+4.png::CompressedTexture2D::165096193929839014::1724159622::1724159627::1::::<><>::
+5.png::CompressedTexture2D::8709499274477478375::1724159622::1724159627::1::::<><>::
+6.png::CompressedTexture2D::158653553196153786::1724159622::1724159627::1::::<><>::
+7.png::CompressedTexture2D::779672779716222173::1724159622::1724159627::1::::<><>::
+8.png::CompressedTexture2D::976358677616298660::1724159622::1724159627::1::::<><>::
+9.png::CompressedTexture2D::3095338190349803111::1724159622::1724159627::1::::<><>::
+10.png::CompressedTexture2D::3383990652764193584::1724159622::1724159627::1::::<><>::
+11.png::CompressedTexture2D::8816557448433524709::1724159622::1724159627::1::::<><>::
+::res://Pirate Bomb/Sprites/3-Enemy-Cucumber/9-Hit/::1724159627
+1.png::CompressedTexture2D::220186189379506696::1724159622::1724159627::1::::<><>::
+2.png::CompressedTexture2D::2377121207845631595::1724159622::1724159627::1::::<><>::
+3.png::CompressedTexture2D::2474450576877903415::1724159622::1724159627::1::::<><>::
+4.png::CompressedTexture2D::7742057182904483114::1724159622::1724159627::1::::<><>::
+5.png::CompressedTexture2D::215546604411010714::1724159622::1724159627::1::::<><>::
+6.png::CompressedTexture2D::3134467351917133866::1724159622::1724159627::1::::<><>::
+7.png::CompressedTexture2D::7096719755230637133::1724159622::1724159627::1::::<><>::
+8.png::CompressedTexture2D::4811739178954921991::1724159622::1724159627::1::::<><>::
+::res://Pirate Bomb/Sprites/3-Enemy-Cucumber/10-Dead Hit/::1724159627
+1.png::CompressedTexture2D::190730914191593072::1724159622::1724159627::1::::<><>::
+2.png::CompressedTexture2D::4838441369695412343::1724159622::1724159627::1::::<><>::
+3.png::CompressedTexture2D::5104357228882813069::1724159622::1724159627::1::::<><>::
+4.png::CompressedTexture2D::8426941792078282001::1724159622::1724159627::1::::<><>::
+5.png::CompressedTexture2D::4636152138074165699::1724159622::1724159627::1::::<><>::
+6.png::CompressedTexture2D::717246114821609496::1724159622::1724159627::1::::<><>::
+::res://Pirate Bomb/Sprites/3-Enemy-Cucumber/11-Dead Ground/::1724159627
+1.png::CompressedTexture2D::2323841163134669580::1724159622::1724159627::1::::<><>::
+2.png::CompressedTexture2D::7125981358677777784::1724159622::1724159627::1::::<><>::
+3.png::CompressedTexture2D::7182986909132274169::1724159622::1724159627::1::::<><>::
+4.png::CompressedTexture2D::5176875113307128436::1724159622::1724159627::1::::<><>::
+::res://Pirate Bomb/Sprites/4-Enemy-Big Guy/::1724159623
+::res://Pirate Bomb/Sprites/4-Enemy-Big Guy/1-Idle/::1724159627
+1.png::CompressedTexture2D::4681951708206014292::1724159622::1724159627::1::::<><>::
+2.png::CompressedTexture2D::6662208210743697473::1724159622::1724159627::1::::<><>::
+3.png::CompressedTexture2D::2940967789921213601::1724159622::1724159627::1::::<><>::
+4.png::CompressedTexture2D::5165476200418777300::1724159622::1724159627::1::::<><>::
+5.png::CompressedTexture2D::5388243591988342686::1724159622::1724159627::1::::<><>::
+6.png::CompressedTexture2D::1699868235200109392::1724159622::1724159627::1::::<><>::
+7.png::CompressedTexture2D::7333692485953181466::1724159622::1724159627::1::::<><>::
+8.png::CompressedTexture2D::7237317361981683562::1724159622::1724159626::1::::<><>::
+9.png::CompressedTexture2D::812605094255013745::1724159622::1724159626::1::::<><>::
+10.png::CompressedTexture2D::2855102157293625368::1724159622::1724159626::1::::<><>::
+11.png::CompressedTexture2D::7583262218862839395::1724159622::1724159626::1::::<><>::
+12.png::CompressedTexture2D::6449054897534699942::1724159622::1724159626::1::::<><>::
+13.png::CompressedTexture2D::4105345706403719543::1724159622::1724159626::1::::<><>::
+14.png::CompressedTexture2D::7670721106147364050::1724159622::1724159626::1::::<><>::
+15.png::CompressedTexture2D::351304996234094846::1724159622::1724159626::1::::<><>::
+16.png::CompressedTexture2D::5095821791793619889::1724159622::1724159626::1::::<><>::
+17.png::CompressedTexture2D::3001771027919545582::1724159622::1724159626::1::::<><>::
+18.png::CompressedTexture2D::2910630591945023153::1724159622::1724159626::1::::<><>::
+19.png::CompressedTexture2D::60777131599562471::1724159622::1724159626::1::::<><>::
+20.png::CompressedTexture2D::2475825153093529516::1724159622::1724159626::1::::<><>::
+21.png::CompressedTexture2D::3622948932565596900::1724159622::1724159626::1::::<><>::
+22.png::CompressedTexture2D::8934259949483212993::1724159622::1724159626::1::::<><>::
+23.png::CompressedTexture2D::5222901616657066285::1724159622::1724159626::1::::<><>::
+24.png::CompressedTexture2D::2708892465335466703::1724159622::1724159626::1::::<><>::
+25.png::CompressedTexture2D::30017248031324233::1724159622::1724159626::1::::<><>::
+26.png::CompressedTexture2D::2261539409195871476::1724159622::1724159626::1::::<><>::
+27.png::CompressedTexture2D::4512985235954530765::1724159622::1724159626::1::::<><>::
+28.png::CompressedTexture2D::6057241478422134647::1724159622::1724159626::1::::<><>::
+29.png::CompressedTexture2D::3850946532527282348::1724159622::1724159626::1::::<><>::
+30.png::CompressedTexture2D::8877125672928713642::1724159622::1724159626::1::::<><>::
+31.png::CompressedTexture2D::394329782495099927::1724159622::1724159626::1::::<><>::
+32.png::CompressedTexture2D::1349557893904960696::1724159622::1724159626::1::::<><>::
+33.png::CompressedTexture2D::1693089610564771998::1724159622::1724159626::1::::<><>::
+34.png::CompressedTexture2D::440884261012590154::1724159622::1724159626::1::::<><>::
+35.png::CompressedTexture2D::5066031678049520563::1724159622::1724159626::1::::<><>::
+36.png::CompressedTexture2D::399392143962154220::1724159622::1724159626::1::::<><>::
+37.png::CompressedTexture2D::8428001790637465205::1724159622::1724159626::1::::<><>::
+38.png::CompressedTexture2D::7688277442311141540::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/4-Enemy-Big Guy/2-Run/::1724159626
+1.png::CompressedTexture2D::1543669797074158314::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::8289452643819868113::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::9049976364149377311::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::6547551033238152221::1724159622::1724159626::1::::<><>::
+5.png::CompressedTexture2D::7812589061394419973::1724159622::1724159626::1::::<><>::
+6.png::CompressedTexture2D::2312840413304637558::1724159622::1724159626::1::::<><>::
+7.png::CompressedTexture2D::1801989538435414562::1724159622::1724159626::1::::<><>::
+8.png::CompressedTexture2D::7090739055072193289::1724159622::1724159626::1::::<><>::
+9.png::CompressedTexture2D::6301067586989748887::1724159622::1724159626::1::::<><>::
+10.png::CompressedTexture2D::8374121690273599031::1724159622::1724159626::1::::<><>::
+11.png::CompressedTexture2D::2484899394734408660::1724159622::1724159626::1::::<><>::
+12.png::CompressedTexture2D::8821220433030974299::1724159622::1724159626::1::::<><>::
+13.png::CompressedTexture2D::28013312608267620::1724159622::1724159626::1::::<><>::
+14.png::CompressedTexture2D::5292731952505094617::1724159622::1724159626::1::::<><>::
+15.png::CompressedTexture2D::7736897952553111652::1724159622::1724159626::1::::<><>::
+16.png::CompressedTexture2D::2605600559039976273::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/4-Enemy-Big Guy/3-Jump Anticipation/::1724159626
+1.png::CompressedTexture2D::709999209892695797::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/4-Enemy-Big Guy/4-Jump/::1724159626
+1.png::CompressedTexture2D::6022076358361090684::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::9461032321085128::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::1318399791157302359::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::8573978510569706368::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/4-Enemy-Big Guy/5-Fall/::1724159626
+1.png::CompressedTexture2D::6409161390150908934::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::6163023273222101572::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/4-Enemy-Big Guy/6-Ground/::1724159626
+1.png::CompressedTexture2D::8845152104997420521::1724159623::1724159626::1::::<><>::
+2.png::CompressedTexture2D::2810680510690062051::1724159623::1724159626::1::::<><>::
+3.png::CompressedTexture2D::700049283172868613::1724159623::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/4-Enemy-Big Guy/7-Attack/::1724159626
+1.png::CompressedTexture2D::4346378657211907034::1724159623::1724159626::1::::<><>::
+2.png::CompressedTexture2D::1453328853583333532::1724159623::1724159626::1::::<><>::
+3.png::CompressedTexture2D::1857369639414976947::1724159623::1724159626::1::::<><>::
+4.png::CompressedTexture2D::1049691340680052339::1724159623::1724159626::1::::<><>::
+5.png::CompressedTexture2D::7826598269012627087::1724159623::1724159626::1::::<><>::
+6.png::CompressedTexture2D::3622561573405846406::1724159623::1724159626::1::::<><>::
+7.png::CompressedTexture2D::7186223721124358073::1724159623::1724159626::1::::<><>::
+8.png::CompressedTexture2D::5932487607675288245::1724159623::1724159626::1::::<><>::
+9.png::CompressedTexture2D::6094147813947173429::1724159623::1724159626::1::::<><>::
+10.png::CompressedTexture2D::5329911670927959080::1724159623::1724159626::1::::<><>::
+11.png::CompressedTexture2D::7054498940982774992::1724159623::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/4-Enemy-Big Guy/8-Pick (Bomb)/::1724159627
+1.png::CompressedTexture2D::4319255382334524033::1724159623::1724159626::1::::<><>::
+2.png::CompressedTexture2D::1821315567016428112::1724159623::1724159627::1::::<><>::
+3.png::CompressedTexture2D::3166278222905331882::1724159623::1724159627::1::::<><>::
+4.png::CompressedTexture2D::4218652886544206680::1724159623::1724159627::1::::<><>::
+5.png::CompressedTexture2D::2259382529826494197::1724159623::1724159627::1::::<><>::
+6.png::CompressedTexture2D::6014856771083270754::1724159623::1724159627::1::::<><>::
+7.png::CompressedTexture2D::5793321623671670916::1724159623::1724159626::1::::<><>::
+8.png::CompressedTexture2D::5964111044936345189::1724159623::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/4-Enemy-Big Guy/9-Idle (Bomb)/::1724159626
+1.png::CompressedTexture2D::1676196596109378505::1724159623::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/::1724159626
+1.png::CompressedTexture2D::882190412653337283::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::3260233363408010062::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::8081233864326259311::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::730836548231181192::1724159622::1724159626::1::::<><>::
+5.png::CompressedTexture2D::3041810775449941018::1724159622::1724159626::1::::<><>::
+6.png::CompressedTexture2D::7685880301385407267::1724159622::1724159626::1::::<><>::
+7.png::CompressedTexture2D::9103133243568373110::1724159622::1724159626::1::::<><>::
+8.png::CompressedTexture2D::6841438738165297138::1724159622::1724159626::1::::<><>::
+9.png::CompressedTexture2D::7785013070788354888::1724159622::1724159626::1::::<><>::
+10.png::CompressedTexture2D::7273089806542331212::1724159622::1724159626::1::::<><>::
+11.png::CompressedTexture2D::1554633290832198168::1724159622::1724159626::1::::<><>::
+12.png::CompressedTexture2D::5505762357518134756::1724159622::1724159626::1::::<><>::
+13.png::CompressedTexture2D::8094590023354681273::1724159622::1724159626::1::::<><>::
+14.png::CompressedTexture2D::5510013182446440783::1724159622::1724159626::1::::<><>::
+15.png::CompressedTexture2D::2892325983481094361::1724159622::1724159626::1::::<><>::
+16.png::CompressedTexture2D::2991114353316063566::1724159622::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/4-Enemy-Big Guy/11-Throw (Bomb)/::1724159626
+1.png::CompressedTexture2D::3786486041528529017::1724159622::1724159626::1::::<><>::
+2.png::CompressedTexture2D::8039744798410797156::1724159622::1724159626::1::::<><>::
+3.png::CompressedTexture2D::1570291701995660570::1724159622::1724159626::1::::<><>::
+4.png::CompressedTexture2D::551937434153432415::1724159622::1724159626::1::::<><>::
+5.png::CompressedTexture2D::4065259885613992499::1724159622::1724159626::1::::<><>::
+6.png::CompressedTexture2D::6012836421312875315::1724159622::1724159625::1::::<><>::
+7.png::CompressedTexture2D::3022342737862807591::1724159622::1724159625::1::::<><>::
+8.png::CompressedTexture2D::2152128964730434514::1724159622::1724159625::1::::<><>::
+9.png::CompressedTexture2D::3729332003656885768::1724159622::1724159625::1::::<><>::
+10.png::CompressedTexture2D::4403423695711941256::1724159622::1724159625::1::::<><>::
+11.png::CompressedTexture2D::958697069015467975::1724159622::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/4-Enemy-Big Guy/12-Hit/::1724159625
+1.png::CompressedTexture2D::6304689495542527635::1724159622::1724159625::1::::<><>::
+2.png::CompressedTexture2D::8025605225140540910::1724159622::1724159625::1::::<><>::
+3.png::CompressedTexture2D::6002552950446718841::1724159622::1724159625::1::::<><>::
+4.png::CompressedTexture2D::4020693437799924463::1724159622::1724159625::1::::<><>::
+5.png::CompressedTexture2D::1637414354311031150::1724159622::1724159625::1::::<><>::
+6.png::CompressedTexture2D::5857968877005724971::1724159622::1724159625::1::::<><>::
+7.png::CompressedTexture2D::3850597846757636418::1724159622::1724159625::1::::<><>::
+8.png::CompressedTexture2D::985993913115478920::1724159622::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/4-Enemy-Big Guy/13-Dead Hit/::1724159625
+1.png::CompressedTexture2D::5951609455215263074::1724159622::1724159625::1::::<><>::
+2.png::CompressedTexture2D::152196845052587331::1724159622::1724159625::1::::<><>::
+3.png::CompressedTexture2D::2856679421329733853::1724159622::1724159625::1::::<><>::
+4.png::CompressedTexture2D::6410268747075092601::1724159622::1724159625::1::::<><>::
+5.png::CompressedTexture2D::5651532104048784872::1724159622::1724159625::1::::<><>::
+6.png::CompressedTexture2D::6599098477213073524::1724159622::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/4-Enemy-Big Guy/14-Dead Ground/::1724159625
+1.png::CompressedTexture2D::2984735259439959671::1724159622::1724159625::1::::<><>::
+2.png::CompressedTexture2D::4033230174157584196::1724159622::1724159625::1::::<><>::
+3.png::CompressedTexture2D::8825339564874204393::1724159622::1724159625::1::::<><>::
+4.png::CompressedTexture2D::7540582774484195748::1724159622::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/5-Enemy-Captain/::1724159623
+::res://Pirate Bomb/Sprites/5-Enemy-Captain/1-Idle/::1724159625
+1.png::CompressedTexture2D::4920788805045828969::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::8590827700612203618::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::1047185061638924747::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::8249755119431109806::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::7450875856101239374::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::604624917023236045::1724159623::1724159625::1::::<><>::
+7.png::CompressedTexture2D::2253294284904705467::1724159623::1724159625::1::::<><>::
+8.png::CompressedTexture2D::4201069958295211560::1724159623::1724159625::1::::<><>::
+9.png::CompressedTexture2D::6190640209595230154::1724159623::1724159625::1::::<><>::
+10.png::CompressedTexture2D::4299381315698699947::1724159623::1724159625::1::::<><>::
+11.png::CompressedTexture2D::8683920412408964534::1724159623::1724159625::1::::<><>::
+12.png::CompressedTexture2D::3957522166201663574::1724159623::1724159625::1::::<><>::
+13.png::CompressedTexture2D::1377630788730473069::1724159623::1724159625::1::::<><>::
+14.png::CompressedTexture2D::7795981199844880793::1724159623::1724159625::1::::<><>::
+15.png::CompressedTexture2D::266412837790605624::1724159623::1724159625::1::::<><>::
+16.png::CompressedTexture2D::344334738544559175::1724159623::1724159625::1::::<><>::
+17.png::CompressedTexture2D::2645314007271475944::1724159623::1724159625::1::::<><>::
+18.png::CompressedTexture2D::4011189518059477333::1724159623::1724159625::1::::<><>::
+19.png::CompressedTexture2D::1439374307631287425::1724159623::1724159625::1::::<><>::
+20.png::CompressedTexture2D::2033642862388450506::1724159623::1724159625::1::::<><>::
+21.png::CompressedTexture2D::5889378080583361379::1724159623::1724159625::1::::<><>::
+22.png::CompressedTexture2D::6592588339956537134::1724159623::1724159625::1::::<><>::
+23.png::CompressedTexture2D::6135391632784359939::1724159623::1724159625::1::::<><>::
+24.png::CompressedTexture2D::4657360196248127347::1724159623::1724159625::1::::<><>::
+25.png::CompressedTexture2D::2060362361491653030::1724159623::1724159625::1::::<><>::
+26.png::CompressedTexture2D::4435531063520254117::1724159623::1724159625::1::::<><>::
+27.png::CompressedTexture2D::280201915880451046::1724159623::1724159625::1::::<><>::
+28.png::CompressedTexture2D::1952672375597082041::1724159623::1724159625::1::::<><>::
+29.png::CompressedTexture2D::2208820381782080714::1724159623::1724159625::1::::<><>::
+30.png::CompressedTexture2D::6851447921555276125::1724159623::1724159625::1::::<><>::
+31.png::CompressedTexture2D::4861261039338307203::1724159623::1724159625::1::::<><>::
+32.png::CompressedTexture2D::3516910199268352493::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/5-Enemy-Captain/2-Run/::1724159625
+1.png::CompressedTexture2D::5659115059793064848::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::2720015975206863711::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::71928964923073482::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::7158524056110410548::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::7600414733452232861::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::4991601271132037418::1724159623::1724159625::1::::<><>::
+7.png::CompressedTexture2D::2797727034309826837::1724159623::1724159625::1::::<><>::
+8.png::CompressedTexture2D::4494076182605617707::1724159623::1724159625::1::::<><>::
+9.png::CompressedTexture2D::3410326058814817321::1724159623::1724159625::1::::<><>::
+10.png::CompressedTexture2D::1350030220722280450::1724159623::1724159625::1::::<><>::
+11.png::CompressedTexture2D::1761152690495302060::1724159623::1724159625::1::::<><>::
+12.png::CompressedTexture2D::5298146152332191802::1724159623::1724159625::1::::<><>::
+13.png::CompressedTexture2D::919412136488848440::1724159623::1724159625::1::::<><>::
+14.png::CompressedTexture2D::7674262292545522768::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/5-Enemy-Captain/3-Jump Anticipation/::1724159625
+1.png::CompressedTexture2D::720780684970265926::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/5-Enemy-Captain/4-Jump/::1724159625
+1.png::CompressedTexture2D::3907859067682991949::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::2895946428186220560::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::6681106194899802402::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::5706769985637160909::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/5-Enemy-Captain/5-Fall/::1724159625
+1.png::CompressedTexture2D::196916567520191475::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::8366940262598676791::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/5-Enemy-Captain/6-Ground/::1724159625
+1.png::CompressedTexture2D::7457555212885217407::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::3480670295889271732::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::5663329515276528720::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/5-Enemy-Captain/7-Attack/::1724159625
+1.png::CompressedTexture2D::6931946229755196757::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::229230382054766222::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::1529689712639097010::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::1921494370796104663::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::9009748632630441712::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::8329421057059795212::1724159623::1724159625::1::::<><>::
+7.png::CompressedTexture2D::970041436192745455::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/5-Enemy-Captain/8-Scare Run/::1724159625
+1.png::CompressedTexture2D::4003841442821408290::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::4709860849174936031::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::3090687767307975754::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::3196990723348950274::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::6094498365694876154::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::470840783195860247::1724159623::1724159625::1::::<><>::
+7.png::CompressedTexture2D::4037299345397600532::1724159623::1724159625::1::::<><>::
+8.png::CompressedTexture2D::2660923117252343599::1724159623::1724159625::1::::<><>::
+9.png::CompressedTexture2D::4313716533555139612::1724159623::1724159625::1::::<><>::
+10.png::CompressedTexture2D::3077291652948933761::1724159623::1724159625::1::::<><>::
+11.png::CompressedTexture2D::4939202611020881449::1724159623::1724159625::1::::<><>::
+12.png::CompressedTexture2D::379401346742060679::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/5-Enemy-Captain/9-Hit/::1724159625
+1.png::CompressedTexture2D::1568633023061645250::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::4096310088355023512::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::4327241543856033651::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::371488420919139015::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::5662346541448303452::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::7613236379121283371::1724159623::1724159625::1::::<><>::
+7.png::CompressedTexture2D::6158442756941026851::1724159623::1724159625::1::::<><>::
+8.png::CompressedTexture2D::8486006891092634865::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/5-Enemy-Captain/10-Dead Hit/::1724159625
+1.png::CompressedTexture2D::6817702247003904574::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::7181823770408810994::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::6769291380183664904::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::8321629616624146750::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::4987903172316952663::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::5679243502088472940::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/5-Enemy-Captain/11-Dead Ground/::1724159625
+1.png::CompressedTexture2D::2084839865909481904::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::5770868593235097597::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::5568623086618893073::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::2390124369265048015::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/6-Enemy-Whale/::1724159623
+::res://Pirate Bomb/Sprites/6-Enemy-Whale/1-Idle/::1724159625
+1.png::CompressedTexture2D::1662687008584936310::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::6622807116758363102::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::1262544961037577219::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::1325458729255500652::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::8583414486511127348::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::8144024567888947607::1724159623::1724159625::1::::<><>::
+7.png::CompressedTexture2D::4224351782150623497::1724159623::1724159625::1::::<><>::
+8.png::CompressedTexture2D::6777001092397585729::1724159623::1724159625::1::::<><>::
+9.png::CompressedTexture2D::6898051612618307905::1724159623::1724159625::1::::<><>::
+10.png::CompressedTexture2D::4634521718122200518::1724159623::1724159625::1::::<><>::
+11.png::CompressedTexture2D::8834734557163244934::1724159623::1724159625::1::::<><>::
+12.png::CompressedTexture2D::6301174052918033005::1724159623::1724159625::1::::<><>::
+13.png::CompressedTexture2D::4690371888365477609::1724159623::1724159625::1::::<><>::
+14.png::CompressedTexture2D::4281385443968402044::1724159623::1724159625::1::::<><>::
+15.png::CompressedTexture2D::8765563985550744326::1724159623::1724159625::1::::<><>::
+16.png::CompressedTexture2D::8511918086907030269::1724159623::1724159625::1::::<><>::
+17.png::CompressedTexture2D::2900205869606267694::1724159623::1724159625::1::::<><>::
+18.png::CompressedTexture2D::1043221590388453963::1724159623::1724159625::1::::<><>::
+19.png::CompressedTexture2D::4206041692590032735::1724159623::1724159625::1::::<><>::
+20.png::CompressedTexture2D::8554829976468608359::1724159623::1724159625::1::::<><>::
+21.png::CompressedTexture2D::621722452979540436::1724159623::1724159625::1::::<><>::
+22.png::CompressedTexture2D::3975253160944465649::1724159623::1724159625::1::::<><>::
+23.png::CompressedTexture2D::2823689098018688748::1724159623::1724159625::1::::<><>::
+24.png::CompressedTexture2D::3871213923031157128::1724159623::1724159625::1::::<><>::
+25.png::CompressedTexture2D::192987112790922681::1724159623::1724159625::1::::<><>::
+26.png::CompressedTexture2D::1085742633257920192::1724159623::1724159625::1::::<><>::
+27.png::CompressedTexture2D::8100559559904893950::1724159623::1724159625::1::::<><>::
+28.png::CompressedTexture2D::9207090172614269883::1724159623::1724159625::1::::<><>::
+29.png::CompressedTexture2D::4626152240869843024::1724159623::1724159625::1::::<><>::
+30.png::CompressedTexture2D::43254014308418879::1724159623::1724159625::1::::<><>::
+31.png::CompressedTexture2D::1638745507475855117::1724159623::1724159625::1::::<><>::
+32.png::CompressedTexture2D::3650947027435030896::1724159623::1724159625::1::::<><>::
+33.png::CompressedTexture2D::4043575702870249210::1724159623::1724159625::1::::<><>::
+34.png::CompressedTexture2D::6931327231198478084::1724159623::1724159625::1::::<><>::
+35.png::CompressedTexture2D::7070031905982911100::1724159623::1724159625::1::::<><>::
+36.png::CompressedTexture2D::1231843885195027371::1724159623::1724159625::1::::<><>::
+37.png::CompressedTexture2D::4450795096204713474::1724159623::1724159625::1::::<><>::
+38.png::CompressedTexture2D::8071711947103218501::1724159623::1724159625::1::::<><>::
+39.png::CompressedTexture2D::2380012162729343925::1724159623::1724159625::1::::<><>::
+40.png::CompressedTexture2D::4314102603393454643::1724159623::1724159625::1::::<><>::
+41.png::CompressedTexture2D::3699817047776293936::1724159623::1724159625::1::::<><>::
+42.png::CompressedTexture2D::435446027067914367::1724159623::1724159625::1::::<><>::
+43.png::CompressedTexture2D::6653445668599418347::1724159623::1724159625::1::::<><>::
+44.png::CompressedTexture2D::2664752007636472099::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/6-Enemy-Whale/2-Run/::1724159625
+1.png::CompressedTexture2D::8016662244728993755::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::1081966555330514531::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::1425062557173380090::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::534204311912919064::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::3023572072799953546::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::7904652734651218407::1724159623::1724159625::1::::<><>::
+7.png::CompressedTexture2D::913708070376766329::1724159623::1724159625::1::::<><>::
+8.png::CompressedTexture2D::3168067690547416891::1724159623::1724159625::1::::<><>::
+9.png::CompressedTexture2D::7254384825712558319::1724159623::1724159625::1::::<><>::
+10.png::CompressedTexture2D::7071700014782883224::1724159623::1724159625::1::::<><>::
+11.png::CompressedTexture2D::6161471549823146996::1724159623::1724159625::1::::<><>::
+12.png::CompressedTexture2D::9079988006879063295::1724159623::1724159625::1::::<><>::
+13.png::CompressedTexture2D::9035605276673467771::1724159623::1724159625::1::::<><>::
+14.png::CompressedTexture2D::8551245537076785229::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/6-Enemy-Whale/3-Jump Anticipation/::1724159625
+1.png::CompressedTexture2D::8631908265763319615::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/6-Enemy-Whale/4-Jump/::1724159625
+1.png::CompressedTexture2D::6407148134888922889::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::7820926293995351829::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::4783564975989735700::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::7653151869032792052::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/6-Enemy-Whale/5-Fall/::1724159625
+1.png::CompressedTexture2D::2078533001230954891::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::2786268693702019277::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/6-Enemy-Whale/6-Ground/::1724159625
+1.png::CompressedTexture2D::7045162343905439004::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::8095723915873830162::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::3709567453006321427::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/6-Enemy-Whale/7-Attack/::1724159625
+1.png::CompressedTexture2D::8439000708683131951::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::1612396267634441290::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::3171121434485267956::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::2226821909611037980::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::3469263552908729401::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::3682870634102297117::1724159623::1724159625::1::::<><>::
+7.png::CompressedTexture2D::3764810962692418137::1724159623::1724159625::1::::<><>::
+8.png::CompressedTexture2D::7252788664475474665::1724159623::1724159625::1::::<><>::
+9.png::CompressedTexture2D::9034860154964223217::1724159623::1724159625::1::::<><>::
+10.png::CompressedTexture2D::3520455288683342150::1724159623::1724159625::1::::<><>::
+11.png::CompressedTexture2D::6969793150578162650::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/6-Enemy-Whale/8-Swalow (Bomb)/::1724159625
+1.png::CompressedTexture2D::152608344728137041::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::2542474341841768742::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::3593117959019559457::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::3749622003458883804::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::4701679670798726101::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::2305956812671173344::1724159623::1724159625::1::::<><>::
+7.png::CompressedTexture2D::3203249878661019908::1724159623::1724159625::1::::<><>::
+8.png::CompressedTexture2D::8237556685713836235::1724159623::1724159625::1::::<><>::
+9.png::CompressedTexture2D::1211810462310342291::1724159623::1724159625::1::::<><>::
+10.png::CompressedTexture2D::2563033053728582742::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/6-Enemy-Whale/9-Hit/::1724159626
+1.png::CompressedTexture2D::3429497266161243282::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::8096877321835278816::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::4741629370182864837::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::6126601494940720192::1724159623::1724159626::1::::<><>::
+5.png::CompressedTexture2D::3895161668444352776::1724159623::1724159626::1::::<><>::
+6.png::CompressedTexture2D::3726740047583793131::1724159623::1724159626::1::::<><>::
+7.png::CompressedTexture2D::6320586460996106485::1724159623::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/6-Enemy-Whale/10-Dead Hit/::1724159626
+1.png::CompressedTexture2D::4536060436613766097::1724159623::1724159626::1::::<><>::
+2.png::CompressedTexture2D::7350244076276244539::1724159623::1724159626::1::::<><>::
+3.png::CompressedTexture2D::8539024981809366595::1724159623::1724159626::1::::<><>::
+4.png::CompressedTexture2D::6556205998490355732::1724159623::1724159626::1::::<><>::
+5.png::CompressedTexture2D::7773465027630159857::1724159623::1724159626::1::::<><>::
+6.png::CompressedTexture2D::8382195467155901887::1724159623::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/6-Enemy-Whale/11-Dead Ground/::1724159626
+1.png::CompressedTexture2D::7657572223640034342::1724159623::1724159626::1::::<><>::
+2.png::CompressedTexture2D::1201089805193504007::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::945888327336906072::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::7175310065863961303::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/::1724159624
+::res://Pirate Bomb/Sprites/7-Objects/1-BOMB/::1724159623
+::res://Pirate Bomb/Sprites/7-Objects/1-BOMB/1-Bomb Off/::1724159625
+1.png::CompressedTexture2D::1376602786346715186::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/1-BOMB/2-Bomb On/::1724159625
+1.png::CompressedTexture2D::3998388576305699288::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::5315748512066000362::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::886919841542452453::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::6278690417727177532::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::2183803693676779100::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::6645962419906269121::1724159623::1724159625::1::::<><>::
+7.png::CompressedTexture2D::5239700709393142416::1724159623::1724159625::1::::<><>::
+8.png::CompressedTexture2D::3095698277333493596::1724159623::1724159625::1::::<><>::
+9.png::CompressedTexture2D::5656417447830196114::1724159623::1724159625::1::::<><>::
+10.png::CompressedTexture2D::6609052037138633744::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/1-BOMB/3-Explotion/::1724159625
+1.png::CompressedTexture2D::5926394406553471798::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::1436946145404696125::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::7526297789879157781::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::8418968771023826075::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::1634479565592850826::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::321563402880526357::1724159623::1724159625::1::::<><>::
+7.png::CompressedTexture2D::880461813466114367::1724159623::1724159625::1::::<><>::
+8.png::CompressedTexture2D::3295155663381440900::1724159623::1724159625::1::::<><>::
+9.png::CompressedTexture2D::435125229960871953::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/2-Door/::1724159624
+::res://Pirate Bomb/Sprites/7-Objects/2-Door/1-Closed/::1724159625
+1.png::CompressedTexture2D::5017132824937919677::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/2-Door/2-Opening/::1724159626
+1.png::CompressedTexture2D::1143067771905936479::1724159623::1724159626::1::::<><>::
+2.png::CompressedTexture2D::1277767000855867566::1724159623::1724159626::1::::<><>::
+3.png::CompressedTexture2D::6841398805607013733::1724159624::1724159626::1::::<><>::
+4.png::CompressedTexture2D::984623331130485904::1724159624::1724159626::1::::<><>::
+5.png::CompressedTexture2D::3652641406233770962::1724159624::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/2-Door/3-Closing/::1724159626
+1.png::CompressedTexture2D::4147419057199662010::1724159624::1724159626::1::::<><>::
+2.png::CompressedTexture2D::2388335419140846156::1724159624::1724159626::1::::<><>::
+3.png::CompressedTexture2D::203214742669642316::1724159624::1724159626::1::::<><>::
+4.png::CompressedTexture2D::3681804010983328447::1724159624::1724159626::1::::<><>::
+5.png::CompressedTexture2D::1527674437445866061::1724159624::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/3-Bomb Bar/::1724159624
+::res://Pirate Bomb/Sprites/7-Objects/3-Bomb Bar/1-Charging Bar/::1724159626
+1.png::CompressedTexture2D::1585919282376762186::1724159624::1724159626::1::::<><>::
+2.png::CompressedTexture2D::7611747460879317937::1724159624::1724159626::1::::<><>::
+3.png::CompressedTexture2D::5872909429670660005::1724159624::1724159626::1::::<><>::
+4.png::CompressedTexture2D::4602788678977750038::1724159624::1724159626::1::::<><>::
+5.png::CompressedTexture2D::4939526921481355066::1724159624::1724159626::1::::<><>::
+6.png::CompressedTexture2D::4718772422520080265::1724159624::1724159626::1::::<><>::
+7.png::CompressedTexture2D::4614900348503172634::1724159624::1724159626::1::::<><>::
+8.png::CompressedTexture2D::2685556494321845152::1724159624::1724159626::1::::<><>::
+9.png::CompressedTexture2D::7896504753219439949::1724159624::1724159626::1::::<><>::
+10.png::CompressedTexture2D::3757660635489155465::1724159624::1724159626::1::::<><>::
+11.png::CompressedTexture2D::8944252857419366337::1724159624::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/3-Bomb Bar/2-Full (Intermitent)/::1724159626
+1.png::CompressedTexture2D::900685366602556797::1724159624::1724159626::1::::<><>::
+2.png::CompressedTexture2D::2268407523879539663::1724159624::1724159626::1::::<><>::
+3.png::CompressedTexture2D::4014460290682064536::1724159624::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/3-Bomb Bar/3-Closing/::1724159626
+1.png::CompressedTexture2D::5458499977579888704::1724159624::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/4-Interrogation Dialog/::1724159624
+::res://Pirate Bomb/Sprites/7-Objects/4-Interrogation Dialog/1-Opening/::1724159626
+1.png::CompressedTexture2D::6778676887501176895::1724159624::1724159626::1::::<><>::
+2.png::CompressedTexture2D::6355542922091263904::1724159624::1724159626::1::::<><>::
+3.png::CompressedTexture2D::2304607887373882189::1724159624::1724159626::1::::<><>::
+4.png::CompressedTexture2D::46174768876917671::1724159624::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/4-Interrogation Dialog/2-Closing/::1724159626
+1.png::CompressedTexture2D::7647513485625593316::1724159624::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/5-Exclamation Dialog/::1724159624
+::res://Pirate Bomb/Sprites/7-Objects/5-Exclamation Dialog/1-Opening/::1724159626
+1.png::CompressedTexture2D::5394586548077261066::1724159624::1724159626::1::::<><>::
+2.png::CompressedTexture2D::4818029109441640021::1724159624::1724159626::1::::<><>::
+3.png::CompressedTexture2D::2903029321411895228::1724159624::1724159626::1::::<><>::
+4.png::CompressedTexture2D::5050767798996799926::1724159624::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/5-Exclamation Dialog/2-Closing/::1724159626
+1.png::CompressedTexture2D::5126103114063609992::1724159624::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/6-Candle/::1724159626
+1.png::CompressedTexture2D::7005418294663081099::1724159624::1724159626::1::::<><>::
+2.png::CompressedTexture2D::5173582321477910978::1724159624::1724159626::1::::<><>::
+3.png::CompressedTexture2D::2583290091248426501::1724159624::1724159626::1::::<><>::
+4.png::CompressedTexture2D::2654010915292708959::1724159624::1724159626::1::::<><>::
+5.png::CompressedTexture2D::2566199499833792109::1724159624::1724159626::1::::<><>::
+6.png::CompressedTexture2D::3577873306730304427::1724159624::1724159626::1::::<><>::
+7.png::CompressedTexture2D::1655537757084626556::1724159624::1724159626::1::::<><>::
+8.png::CompressedTexture2D::8828227697460584686::1724159624::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/7-Candle Light/::1724159626
+1.png::CompressedTexture2D::9104379731183581550::1724159624::1724159626::1::::<><>::
+2.png::CompressedTexture2D::1137571173283005983::1724159624::1724159626::1::::<><>::
+3.png::CompressedTexture2D::8555322739308825056::1724159624::1724159626::1::::<><>::
+4.png::CompressedTexture2D::3454620244719749990::1724159624::1724159626::1::::<><>::
+5.png::CompressedTexture2D::8511526631423905897::1724159624::1724159626::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/8-Window Light/::1724159626
+1.png::CompressedTexture2D::8222347071303558793::1724159624::1724159626::1::::<><>::
+2.png::CompressedTexture2D::336812928635740158::1724159624::1724159625::1::::<><>::
+3.png::CompressedTexture2D::7295080044232396027::1724159624::1724159625::1::::<><>::
+4.png::CompressedTexture2D::3750471544329766027::1724159624::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/9-Small Chain/::1724159625
+1.png::CompressedTexture2D::2616230211338922286::1724159624::1724159625::1::::<><>::
+2.png::CompressedTexture2D::4211525220930297967::1724159624::1724159625::1::::<><>::
+3.png::CompressedTexture2D::6525999553024609755::1724159624::1724159625::1::::<><>::
+4.png::CompressedTexture2D::2905056002431672393::1724159624::1724159625::1::::<><>::
+5.png::CompressedTexture2D::5453228356747090586::1724159624::1724159625::1::::<><>::
+6.png::CompressedTexture2D::5064622128347533529::1724159624::1724159625::1::::<><>::
+7.png::CompressedTexture2D::7296523270599723554::1724159624::1724159625::1::::<><>::
+8.png::CompressedTexture2D::6232373803759600585::1724159624::1724159625::1::::<><>::
+9.png::CompressedTexture2D::7746955795129245881::1724159624::1724159625::1::::<><>::
+10.png::CompressedTexture2D::7095904566146902707::1724159624::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/10-Big Chain/::1724159625
+1.png::CompressedTexture2D::5713187145435975596::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::4892152558580674787::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::8565320031464959960::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::3204951187058114328::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::7404568616344709201::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::8690028152792985362::1724159623::1724159625::1::::<><>::
+7.png::CompressedTexture2D::6498291909876415619::1724159623::1724159625::1::::<><>::
+8.png::CompressedTexture2D::8487018659361088215::1724159623::1724159625::1::::<><>::
+9.png::CompressedTexture2D::250334090436197034::1724159623::1724159625::1::::<><>::
+10.png::CompressedTexture2D::6942228690387883447::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/11-Health Bar/::1724159625
+Health Bar.png::CompressedTexture2D::6799274234330815022::1724159623::1724159625::1::::<><>::
+Heart.png::CompressedTexture2D::5385264495665954186::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/12-Other Objects/::1724159625
+Barrel.png::CompressedTexture2D::7778610991187589822::1724159623::1724159625::1::::<><>::
+Blue Bottle.png::CompressedTexture2D::1082271693393806830::1724159623::1724159625::1::::<><>::
+Chair.png::CompressedTexture2D::3679868863499084349::1724159623::1724159625::1::::<><>::
+Green Bottle.png::CompressedTexture2D::1709118863826020021::1724159623::1724159625::1::::<><>::
+Red Bottle.png::CompressedTexture2D::4145909540480383044::1724159623::1724159625::1::::<><>::
+Skull.png::CompressedTexture2D::4188776256874604691::1724159623::1724159625::1::::<><>::
+Table.png::CompressedTexture2D::7540412192174869817::1724159623::1724159625::1::::<><>::
+Windows.png::CompressedTexture2D::6504209280407950599::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/13-Run Particles/::1724159625
+1.png::CompressedTexture2D::5099357579498919902::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::4225336737175029803::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::7785988798385067744::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::4543982619174664806::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::1371951470427706748::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::8211058733787473638::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/14-Jump Particles/::1724159625
+1.png::CompressedTexture2D::8496654596090047532::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::1709415581578435870::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::861884376717006904::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::3064631161478189924::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::8804476677509362619::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::5759170546520900551::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/15-Fall Particles/::1724159625
+1.png::CompressedTexture2D::8952318822004047767::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::7472605300330879601::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::2474531096779760256::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::3291276079529210841::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::2623530659609215352::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::652298608018892528::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/16-Enemy-Cannon/::1724159623
+::res://Pirate Bomb/Sprites/7-Objects/16-Enemy-Cannon/1-Idle/::1724159625
+1.png::CompressedTexture2D::3365193742080714288::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/16-Enemy-Cannon/2-Attack/::1724159625
+1.png::CompressedTexture2D::7402911708977189027::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::5101820070294932742::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::7063040955700036267::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::708821955067813152::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::5458904030236651711::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::2339390842340168798::1724159623::1724159625::1::::<><>::
+7.png::CompressedTexture2D::7260707528932371381::1724159623::1724159625::1::::<><>::
+8.png::CompressedTexture2D::5071515146400061604::1724159623::1724159625::1::::<><>::
+9.png::CompressedTexture2D::610321217593209421::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/16-Enemy-Cannon/3-Cannon Ball/::1724159625
+1.png::CompressedTexture2D::4010317324807433652::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/17-Heart/::1724159623
+::res://Pirate Bomb/Sprites/7-Objects/17-Heart/1-Idle/::1724159625
+1.png::CompressedTexture2D::8571734879667840658::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::2201905931763286907::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::7831711050242375940::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::6023769734662399610::1724159623::1724159625::1::::<><>::
+5.png::CompressedTexture2D::6008196377553042251::1724159623::1724159625::1::::<><>::
+6.png::CompressedTexture2D::4860156272488826994::1724159623::1724159625::1::::<><>::
+7.png::CompressedTexture2D::2461590727787033090::1724159623::1724159625::1::::<><>::
+8.png::CompressedTexture2D::8422171216106726077::1724159623::1724159625::1::::<><>::
+9.png::CompressedTexture2D::1653794516736375782::1724159623::1724159625::1::::<><>::
+10.png::CompressedTexture2D::3830488111546118491::1724159623::1724159625::1::::<><>::
+11.png::CompressedTexture2D::5271402990242790374::1724159623::1724159625::1::::<><>::
+12.png::CompressedTexture2D::6827549290606364496::1724159623::1724159625::1::::<><>::
+13.png::CompressedTexture2D::4049409528988893362::1724159623::1724159625::1::::<><>::
+14.png::CompressedTexture2D::8154237916301882181::1724159623::1724159625::1::::<><>::
+15.png::CompressedTexture2D::8007577656254088604::1724159623::1724159625::1::::<><>::
+16.png::CompressedTexture2D::5513802376949153254::1724159623::1724159625::1::::<><>::
+17.png::CompressedTexture2D::643699168592966931::1724159623::1724159625::1::::<><>::
+18.png::CompressedTexture2D::7574128665292182975::1724159623::1724159625::1::::<><>::
+19.png::CompressedTexture2D::7363085644109695941::1724159623::1724159625::1::::<><>::
+20.png::CompressedTexture2D::221997306749781278::1724159623::1724159625::1::::<><>::
+21.png::CompressedTexture2D::604930714087799882::1724159623::1724159625::1::::<><>::
+22.png::CompressedTexture2D::6360259966144693375::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/7-Objects/17-Heart/2-Live+1/::1724159625
+1.png::CompressedTexture2D::5908306283461275653::1724159623::1724159625::1::::<><>::
+2.png::CompressedTexture2D::6453273108985229333::1724159623::1724159625::1::::<><>::
+3.png::CompressedTexture2D::8614057918705796238::1724159623::1724159625::1::::<><>::
+4.png::CompressedTexture2D::6682061608057019854::1724159623::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/8-Tile-Sets/::1724159625
+Tile-Sets (64-64).png::CompressedTexture2D::1413575395046528818::1724159624::1724159625::1::::<><>::
+::res://Pirate Bomb/Sprites/8-Tile-Sets/Variations/::1724159625
+1.png::CompressedTexture2D::8259877449582866117::1724159624::1724159625::1::::<><>::
+2.png::CompressedTexture2D::5768285458592220431::1724159624::1724159625::1::::<><>::
+3.png::CompressedTexture2D::8102181285972350606::1724159624::1724159625::1::::<><>::
+4.png::CompressedTexture2D::1152171481198413459::1724159624::1724159625::1::::<><>::
+5.png::CompressedTexture2D::1765077801813108045::1724159624::1724159625::1::::<><>::
+6.png::CompressedTexture2D::5339105754321559577::1724159624::1724159625::1::::<><>::
+7.png::CompressedTexture2D::6838799642298450710::1724159624::1724159625::1::::<><>::
+8.png::CompressedTexture2D::5727450568042503637::1724159624::1724159625::1::::<><>::
+::res://Pixel Adventure 1/::1724162202
+::res://Pixel Adventure 1/Free/::1724162204
+20 Enemies.png::CompressedTexture2D::2342831756853526142::1724162202::1724162204::1::::<><>::
+Hello.png::CompressedTexture2D::7634097020863029460::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Background/::1724162204
+Blue.png::CompressedTexture2D::214418805327339096::1724162202::1724162204::1::::<><>::
+Brown.png::CompressedTexture2D::3616366238386992121::1724162202::1724162204::1::::<><>::
+Gray.png::CompressedTexture2D::1048537816252217240::1724162202::1724162204::1::::<><>::
+Green.png::CompressedTexture2D::5540442069891747381::1724162202::1724162204::1::::<><>::
+Pink.png::CompressedTexture2D::6441680879125701904::1724162202::1724162204::1::::<><>::
+Purple.png::CompressedTexture2D::9067789570992186410::1724162202::1724162204::1::::<><>::
+Yellow.png::CompressedTexture2D::6831348463750230633::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Items/::1724162202
+::res://Pixel Adventure 1/Free/Items/Boxes/::1724162202
+::res://Pixel Adventure 1/Free/Items/Boxes/Box1/::1724162204
+Break.png::CompressedTexture2D::7300873914782317285::1724162202::1724162204::1::::<><>::
+Hit (28x24).png::CompressedTexture2D::4916994079960168719::1724162202::1724162204::1::::<><>::
+Idle.png::CompressedTexture2D::3298371290077780195::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Items/Boxes/Box2/::1724162204
+Break.png::CompressedTexture2D::39540494575330812::1724162202::1724162204::1::::<><>::
+Hit (28x24).png::CompressedTexture2D::6699869117245575687::1724162202::1724162204::1::::<><>::
+Idle.png::CompressedTexture2D::3693808813597344292::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Items/Boxes/Box3/::1724162204
+Break.png::CompressedTexture2D::8389235334999551190::1724162202::1724162204::1::::<><>::
+Hit (28x24).png::CompressedTexture2D::8046827059019070970::1724162202::1724162204::1::::<><>::
+Idle.png::CompressedTexture2D::6639563634670234865::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Items/Checkpoints/::1724162202
+::res://Pixel Adventure 1/Free/Items/Checkpoints/Checkpoint/::1724162204
+Checkpoint (Flag Idle)(64x64).png::CompressedTexture2D::19506573812070038::1724162202::1724162204::1::::<><>::
+Checkpoint (Flag Out) (64x64).png::CompressedTexture2D::293123428496615212::1724162202::1724162204::1::::<><>::
+Checkpoint (No Flag).png::CompressedTexture2D::7952955767333169401::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Items/Checkpoints/End/::1724162204
+End (Idle).png::CompressedTexture2D::5485719820383245474::1724162202::1724162204::1::::<><>::
+End (Pressed) (64x64).png::CompressedTexture2D::6594326488964047621::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Items/Checkpoints/Start/::1724162204
+Start (Idle).png::CompressedTexture2D::718054325742591613::1724162202::1724162204::1::::<><>::
+Start (Moving) (64x64).png::CompressedTexture2D::1784690687122476653::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Items/Fruits/::1724162204
+Apple.png::CompressedTexture2D::7827712600260627822::1724162202::1724162204::1::::<><>::
+Bananas.png::CompressedTexture2D::2850524028389959292::1724162202::1724162204::1::::<><>::
+Cherries.png::CompressedTexture2D::7122369544128464671::1724162202::1724162204::1::::<><>::
+Collected.png::CompressedTexture2D::3100118190806957238::1724162202::1724162204::1::::<><>::
+Kiwi.png::CompressedTexture2D::167586674754811236::1724162202::1724162204::1::::<><>::
+Melon.png::CompressedTexture2D::4106767498797195150::1724162202::1724162204::1::::<><>::
+Orange.png::CompressedTexture2D::5396063254005632563::1724162202::1724162204::1::::<><>::
+Pineapple.png::CompressedTexture2D::6185891338509703974::1724162202::1724162204::1::::<><>::
+Strawberry.png::CompressedTexture2D::3037479784386997966::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Main Characters/::1724162204
+Appearing (96x96).png::CompressedTexture2D::4230405550616372282::1724162202::1724162204::1::::<><>::
+Desappearing (96x96).png::CompressedTexture2D::4228723637899343585::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Main Characters/Mask Dude/::1724162204
+Double Jump (32x32).png::CompressedTexture2D::1384025465679930964::1724162202::1724162204::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::3485207795956754888::1724162202::1724162204::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::7433524109986211482::1724162202::1724162204::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::3616082694933977912::1724162202::1724162204::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::7691748812502609276::1724162202::1724162204::1::::<><>::
+Run (32x32).png::CompressedTexture2D::7948518800863258909::1724162202::1724162204::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::4538201102895062546::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Main Characters/Ninja Frog/::1724162204
+Double Jump (32x32).png::CompressedTexture2D::4458212343355153509::1724162202::1724162204::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::8609038670600378726::1724162202::1724162204::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::2508228527487144016::1724162202::1724162204::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::4170819127723941040::1724162202::1724162204::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::1905143692733089854::1724162202::1724162204::1::::<><>::
+Run (32x32).png::CompressedTexture2D::3934191810971051168::1724162202::1724162204::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::3763284140214598480::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Main Characters/Pink Man/::1724162204
+Double Jump (32x32).png::CompressedTexture2D::1350070847316797753::1724162202::1724162204::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::415099546708212625::1724162202::1724162204::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::9214134504319821220::1724162202::1724162204::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::6771936904726905594::1724162202::1724162204::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::8898801694902819440::1724162202::1724162204::1::::<><>::
+Run (32x32).png::CompressedTexture2D::6833814222373480944::1724162202::1724162204::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::3776247646547614030::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Main Characters/Virtual Guy/::1724162204
+Double Jump (32x32).png::CompressedTexture2D::8065492615556868770::1724162202::1724162204::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::948461938039232316::1724162202::1724162204::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::6107657201198128450::1724162202::1724162204::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::6439415208321536713::1724162202::1724162204::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::5195826780339371216::1724162202::1724162204::1::::<><>::
+Run (32x32).png::CompressedTexture2D::7576266547452525552::1724162202::1724162204::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::5605913423836124442::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Menu/::1724162202
+::res://Pixel Adventure 1/Free/Menu/Buttons/::1724162204
+Achievements.png::CompressedTexture2D::8667808051332064202::1724162202::1724162204::1::::<><>::
+Back.png::CompressedTexture2D::9122803340453503692::1724162202::1724162204::1::::<><>::
+Close.png::CompressedTexture2D::7331894635247315547::1724162202::1724162204::1::::<><>::
+Leaderboard.png::CompressedTexture2D::2103702086529193634::1724162202::1724162204::1::::<><>::
+Levels.png::CompressedTexture2D::3289370061063628384::1724162202::1724162204::1::::<><>::
+Next.png::CompressedTexture2D::1176434329244737999::1724162202::1724162204::1::::<><>::
+Play.png::CompressedTexture2D::3678845615275405513::1724162202::1724162204::1::::<><>::
+Previous.png::CompressedTexture2D::3778626763761565434::1724162202::1724162204::1::::<><>::
+Restart.png::CompressedTexture2D::992662828658967491::1724162202::1724162204::1::::<><>::
+Settings.png::CompressedTexture2D::1112274333745389228::1724162202::1724162204::1::::<><>::
+Volume.png::CompressedTexture2D::8866771204608797253::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Menu/Levels/::1724162204
+01.png::CompressedTexture2D::7603321484843056588::1724162202::1724162204::1::::<><>::
+02.png::CompressedTexture2D::7036469980217662849::1724162202::1724162204::1::::<><>::
+03.png::CompressedTexture2D::8882703687697480428::1724162202::1724162204::1::::<><>::
+04.png::CompressedTexture2D::5914996820375544999::1724162202::1724162204::1::::<><>::
+05.png::CompressedTexture2D::3338708682174055977::1724162202::1724162204::1::::<><>::
+06.png::CompressedTexture2D::992227101770281093::1724162202::1724162204::1::::<><>::
+07.png::CompressedTexture2D::6702764952278100702::1724162202::1724162204::1::::<><>::
+08.png::CompressedTexture2D::1979469384726168623::1724162202::1724162204::1::::<><>::
+09.png::CompressedTexture2D::8610241599825348660::1724162202::1724162204::1::::<><>::
+10.png::CompressedTexture2D::4882695610609891011::1724162202::1724162204::1::::<><>::
+11.png::CompressedTexture2D::4309809634019441344::1724162202::1724162204::1::::<><>::
+12.png::CompressedTexture2D::4987755055046823262::1724162202::1724162204::1::::<><>::
+13.png::CompressedTexture2D::5665230520981007053::1724162202::1724162204::1::::<><>::
+14.png::CompressedTexture2D::7306828307192584671::1724162202::1724162204::1::::<><>::
+15.png::CompressedTexture2D::4221303900603207454::1724162202::1724162204::1::::<><>::
+16.png::CompressedTexture2D::3628399838329643663::1724162202::1724162203::1::::<><>::
+17.png::CompressedTexture2D::6799406051556421509::1724162202::1724162203::1::::<><>::
+18.png::CompressedTexture2D::314198349849689722::1724162202::1724162203::1::::<><>::
+19.png::CompressedTexture2D::2584239479314737292::1724162202::1724162203::1::::<><>::
+20.png::CompressedTexture2D::633908298863866177::1724162202::1724162203::1::::<><>::
+21.png::CompressedTexture2D::484449235676151881::1724162202::1724162203::1::::<><>::
+22.png::CompressedTexture2D::4299885384082866508::1724162202::1724162203::1::::<><>::
+23.png::CompressedTexture2D::825982596046367406::1724162202::1724162203::1::::<><>::
+24.png::CompressedTexture2D::4311802683338676471::1724162202::1724162203::1::::<><>::
+25.png::CompressedTexture2D::8670727043086660273::1724162202::1724162203::1::::<><>::
+26.png::CompressedTexture2D::7380857114753272976::1724162202::1724162203::1::::<><>::
+27.png::CompressedTexture2D::1819974897044298394::1724162202::1724162203::1::::<><>::
+28.png::CompressedTexture2D::1854489028182221662::1724162202::1724162203::1::::<><>::
+29.png::CompressedTexture2D::6926258272426459475::1724162202::1724162203::1::::<><>::
+30.png::CompressedTexture2D::2538762533137766934::1724162202::1724162203::1::::<><>::
+31.png::CompressedTexture2D::1199365012877245524::1724162202::1724162203::1::::<><>::
+32.png::CompressedTexture2D::5609999826375475416::1724162202::1724162203::1::::<><>::
+33.png::CompressedTexture2D::6307385685643773687::1724162202::1724162203::1::::<><>::
+34.png::CompressedTexture2D::8621764612784528696::1724162202::1724162203::1::::<><>::
+35.png::CompressedTexture2D::7615321183359923116::1724162202::1724162203::1::::<><>::
+36.png::CompressedTexture2D::8023375049954111242::1724162202::1724162203::1::::<><>::
+37.png::CompressedTexture2D::8770613167647105388::1724162202::1724162203::1::::<><>::
+38.png::CompressedTexture2D::5428055966113591433::1724162202::1724162203::1::::<><>::
+39.png::CompressedTexture2D::7285985212737254702::1724162202::1724162203::1::::<><>::
+40.png::CompressedTexture2D::7429878464137555926::1724162202::1724162203::1::::<><>::
+41.png::CompressedTexture2D::6463635892998662986::1724162202::1724162203::1::::<><>::
+42.png::CompressedTexture2D::2838834773080839954::1724162202::1724162203::1::::<><>::
+43.png::CompressedTexture2D::1655930099861706994::1724162202::1724162203::1::::<><>::
+44.png::CompressedTexture2D::2657730768282652760::1724162202::1724162203::1::::<><>::
+45.png::CompressedTexture2D::9008909579778108656::1724162202::1724162203::1::::<><>::
+46.png::CompressedTexture2D::9172604651707575620::1724162202::1724162203::1::::<><>::
+47.png::CompressedTexture2D::3855242950501292946::1724162202::1724162203::1::::<><>::
+48.png::CompressedTexture2D::2005138568636184534::1724162202::1724162203::1::::<><>::
+49.png::CompressedTexture2D::718117919799013553::1724162202::1724162203::1::::<><>::
+50.png::CompressedTexture2D::5735068176802063029::1724162202::1724162203::1::::<><>::
+::res://Pixel Adventure 1/Free/Menu/Text/::1724162203
+Text (Black) (8x10).png::CompressedTexture2D::7456730019546093550::1724162202::1724162203::1::::<><>::
+Text (White) (8x10).png::CompressedTexture2D::7770201927969228585::1724162202::1724162203::1::::<><>::
+::res://Pixel Adventure 1/Free/Other/::1724162203
+Confetti (16x16).png::CompressedTexture2D::4655988014163467082::1724162202::1724162203::1::::<><>::
+Dust Particle.png::CompressedTexture2D::6247940209083652146::1724162202::1724162203::1::::<><>::
+Shadow.png::CompressedTexture2D::8437736409128563283::1724162202::1724162203::1::::<><>::
+Transition.png::CompressedTexture2D::3641544852721030242::1724162202::1724162203::1::::<><>::
+::res://Pixel Adventure 1/Free/Terrain/::1724162203
+Terrain (16x16).png::CompressedTexture2D::9182731470513333630::1724162202::1724162203::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/::1724162203
+::res://Pixel Adventure 1/Free/Traps/Arrow/::1724162203
+Hit (18x18).png::CompressedTexture2D::4806373599236353462::1724162202::1724162203::1::::<><>::
+Idle (18x18).png::CompressedTexture2D::6973781079947374686::1724162202::1724162203::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Blocks/::1724162204
+HitSide (22x22).png::CompressedTexture2D::1030185324705625495::1724162202::1724162203::1::::<><>::
+HitTop (22x22).png::CompressedTexture2D::7295234270805153959::1724162202::1724162204::1::::<><>::
+Idle.png::CompressedTexture2D::6809062016590217892::1724162202::1724162204::1::::<><>::
+Part 1 (22x22).png::CompressedTexture2D::2803559274162660084::1724162202::1724162204::1::::<><>::
+Part 2 (22x22).png::CompressedTexture2D::8851090825646033367::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Falling Platforms/::1724162204
+Off.png::CompressedTexture2D::3025014879690257380::1724162202::1724162204::1::::<><>::
+On (32x10).png::CompressedTexture2D::1129704457146655112::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Fan/::1724162204
+Off.png::CompressedTexture2D::4381126285619656468::1724162202::1724162204::1::::<><>::
+On (24x8).png::CompressedTexture2D::4090554227527760660::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Fire/::1724162204
+Hit (16x32).png::CompressedTexture2D::3624539910694468120::1724162202::1724162204::1::::<><>::
+Off.png::CompressedTexture2D::4837418373908027948::1724162202::1724162204::1::::<><>::
+On (16x32).png::CompressedTexture2D::8687158125022196240::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Platforms/::1724162204
+Brown Off.png::CompressedTexture2D::1891376805403237967::1724162202::1724162204::1::::<><>::
+Brown On (32x8).png::CompressedTexture2D::5036963739301629722::1724162202::1724162204::1::::<><>::
+Chain.png::CompressedTexture2D::1065253305056199590::1724162202::1724162204::1::::<><>::
+Grey Off.png::CompressedTexture2D::7780292931910374079::1724162202::1724162204::1::::<><>::
+Grey On (32x8).png::CompressedTexture2D::4224664881116729022::1724162202::1724162204::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Rock Head/::1724162204
+Blink (42x42).png::CompressedTexture2D::3093018070565746960::1724162202::1724162204::1::::<><>::
+Bottom Hit (42x42).png::CompressedTexture2D::690761446301226806::1724162202::1724162204::1::::<><>::
+Idle.png::CompressedTexture2D::6328073290119852183::1724162202::1724162204::1::::<><>::
+Left Hit (42x42).png::CompressedTexture2D::9114927420295859902::1724162203::1724162204::1::::<><>::
+Right Hit (42x42).png::CompressedTexture2D::7988505916276080610::1724162203::1724162203::1::::<><>::
+Top Hit (42x42).png::CompressedTexture2D::2737358435343740613::1724162203::1724162203::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Sand Mud Ice/::1724162203
+Ice Particle.png::CompressedTexture2D::8093397688742255386::1724162203::1724162203::1::::<><>::
+Mud Particle.png::CompressedTexture2D::5512569678775000478::1724162203::1724162203::1::::<><>::
+Sand Mud Ice (16x6).png::CompressedTexture2D::8173524627119133184::1724162203::1724162203::1::::<><>::
+Sand Particle.png::CompressedTexture2D::5180492467582142270::1724162203::1724162203::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Saw/::1724162203
+Chain.png::CompressedTexture2D::8433266503692648481::1724162203::1724162203::1::::<><>::
+Off.png::CompressedTexture2D::4322192098633291430::1724162203::1724162203::1::::<><>::
+On (38x38).png::CompressedTexture2D::92708918173524128::1724162203::1724162203::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Spike Head/::1724162203
+Blink (54x52).png::CompressedTexture2D::5154011776234260115::1724162203::1724162203::1::::<><>::
+Bottom Hit (54x52).png::CompressedTexture2D::3574964118346702733::1724162203::1724162203::1::::<><>::
+Idle.png::CompressedTexture2D::6615702707859610149::1724162203::1724162203::1::::<><>::
+Left Hit (54x52).png::CompressedTexture2D::5695768622415227855::1724162203::1724162203::1::::<><>::
+Right Hit (54x52).png::CompressedTexture2D::4679810831587057778::1724162203::1724162203::1::::<><>::
+Top Hit (54x52).png::CompressedTexture2D::3726017729661083400::1724162203::1724162203::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Spiked Ball/::1724162203
+Chain.png::CompressedTexture2D::1468385282093094214::1724162203::1724162203::1::::<><>::
+Spiked Ball.png::CompressedTexture2D::1190897093743531703::1724162203::1724162203::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Spikes/::1724162203
+Idle.png::CompressedTexture2D::6030204184195705620::1724162203::1724162203::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Trampoline/::1724162203
+Idle.png::CompressedTexture2D::560911135425156037::1724162203::1724162203::1::::<><>::
+Jump (28x28).png::CompressedTexture2D::2535521605061504783::1724162203::1724162203::1::::<><>::

@@ -1,0 +1,57 @@
+[gd_scene load_steps=7 format=3 uid="uid://dvoxfdgbmwc2g"]
+
+[ext_resource type="Script" path="res://CanvasLayer.gd" id="1_j6scb"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_by4bo"]
+bg_color = Color(0.691011, 0.454855, 1, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_kxpuk"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_35nb2"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_amaa8"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_qmikj"]
+
+[node name="Menu" type="Node2D"]
+
+[node name="HUD" type="CanvasLayer" parent="."]
+script = ExtResource("1_j6scb")
+
+[node name="Control" type="Control" parent="HUD"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Label" type="Label" parent="HUD/Control"]
+layout_mode = 0
+offset_left = 190.0
+offset_top = 11.0
+offset_right = 230.0
+offset_bottom = 34.0
+
+[node name="Label2" type="Label" parent="HUD/Control"]
+layout_mode = 0
+offset_left = 200.0
+offset_top = 347.0
+offset_right = 240.0
+offset_bottom = 370.0
+
+[node name="Button" type="Button" parent="HUD/Control"]
+layout_mode = 0
+offset_left = 226.0
+offset_top = 192.0
+offset_right = 323.0
+offset_bottom = 231.0
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_colors/font_pressed_color = Color(0.509804, 0.0745098, 1, 1)
+theme_override_colors/font_hover_color = Color(0.509804, 0.0745098, 1, 1)
+theme_override_colors/font_focus_color = Color(1, 1, 1, 1)
+theme_override_font_sizes/font_size = 32
+theme_override_styles/normal = SubResource("StyleBoxFlat_by4bo")
+theme_override_styles/hover = SubResource("StyleBoxFlat_kxpuk")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_35nb2")
+theme_override_styles/disabled = SubResource("StyleBoxFlat_amaa8")
+theme_override_styles/focus = SubResource("StyleBoxFlat_qmikj")
+text = "teste"
