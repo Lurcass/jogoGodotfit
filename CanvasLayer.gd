@@ -1,5 +1,5 @@
 extends CanvasLayer
-@onready var leve_01 = $".."
+@onready var leve_01 = $Control/iniciar/pause_menu/resetar
 var game_paused = false
 
 func _ready():

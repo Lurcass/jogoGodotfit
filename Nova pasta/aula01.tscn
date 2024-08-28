@@ -1,4 +1,4 @@
-[gd_scene load_steps=565 format=3 uid="uid://dmnre1d13ptnd"]
+[gd_scene load_steps=566 format=3 uid="uid://dmnre1d13ptnd"]
 
 [ext_resource type="Script" path="res://leve_01.gd" id="1_wjbpe"]
 [ext_resource type="Script" path="res://Player.gd" id="2_tajgs"]
@@ -34,7 +34,7 @@
 [ext_resource type="Texture2D" uid="uid://chfy662u6hsxd" path="res://Assets_aula1/Armadilha/On (38x38).png" id="32_wcyfp"]
 [ext_resource type="Texture2D" uid="uid://bkfyq1xgscig1" path="res://Pixel Adventure 1/Free/Items/Fruits/Collected.png" id="34_6mlj7"]
 [ext_resource type="Texture2D" uid="uid://bjjm33uknxisc" path="res://Pixel Adventure 1/Free/Items/Fruits/Strawberry.png" id="35_41jgu"]
-[ext_resource type="PackedScene" uid="uid://dvoxfdgbmwc2g" path="res://menu.tscn" id="36_5vm32"]
+[ext_resource type="Script" path="res://Nova pasta/Vida.gd" id="36_7ls1l"]
 [ext_resource type="Script" path="res://Control.gd" id="46_0fvyn"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_nlq6a"]
@@ -4233,10 +4233,11 @@ animations = [{
 [sub_resource type="CircleShape2D" id="CircleShape2D_21dem"]
 radius = 9.0
 
+[sub_resource type="CanvasTexture" id="CanvasTexture_bxsje"]
+specular_color = Color(0.00392157, 1, 1, 1)
+
 [node name="level_1" type="Node2D"]
 script = ExtResource("1_wjbpe")
-
-[node name="Menu" parent="." instance=ExtResource("36_5vm32")]
 
 [node name="PLayer" type="CharacterBody2D" parent="."]
 script = ExtResource("2_tajgs")
@@ -5108,7 +5109,7 @@ scale = Vector2(0.789473, 0.697369)
 shape = SubResource("CircleShape2D_epcin")
 
 [node name="Armadilha15" type="Area2D" parent="ARMADILHA"]
-position = Vector2(77, -81)
+position = Vector2(91, -88)
 script = ExtResource("31_jv3mi")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="ARMADILHA/Armadilha15"]
@@ -5178,6 +5179,45 @@ frame_progress = 0.452106
 [node name="CollisionShape2D" type="CollisionShape2D" parent="RecompensaFinal"]
 position = Vector2(59, 849)
 shape = SubResource("CircleShape2D_21dem")
+
+[node name="Vida" type="CanvasLayer" parent="."]
+
+[node name="Control" type="Control" parent="Vida"]
+layout_mode = 3
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -195.5
+offset_top = 6.0
+offset_right = -195.5
+offset_bottom = 6.0
+grow_horizontal = 2
+script = ExtResource("36_7ls1l")
+
+[node name="MarginContainer" type="MarginContainer" parent="Vida/Control"]
+layout_mode = 1
+offset_left = -12.0
+offset_top = -16.0
+offset_right = 40.0
+offset_bottom = 24.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Vida/Control/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+tooltip_text = "Vida: 3
+"
+
+[node name="Vida_contador" type="Label" parent="Vida/Control/MarginContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="Cenario" type="TextureRect" parent="."]
+modulate = Color(0.247059, 1, 1, 0.396078)
+self_modulate = Color(1, 0, 1, 0.380392)
+show_behind_parent = true
+offset_top = -110.0
+offset_right = 490.0
+offset_bottom = 899.0
+texture = SubResource("CanvasTexture_bxsje")
 
 [connection signal="body_exited" from="Melancia/MelanciaNormal" to="Melancia/MelanciaNormal" method="_on_body_exited"]
 [connection signal="body_entered" from="Melancia/MelanciaNormal2" to="Melancia/MelanciaNormal2" method="_on_body_entered"]

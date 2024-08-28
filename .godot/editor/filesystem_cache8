@@ -1,14 +1,14 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1724680292
+::res://::1724841115
 AnimatedSprite2D.gd::GDScript::-1::1723641687::0::1::::<>AnimatedSprite2D<>::
 Armadilha.gd::GDScript::-1::1724334994::0::1::::<>Area2D<>::
-CanvasLayer.gd::GDScript::-1::1724671313::0::1::::<>CanvasLayer<>::
+CanvasLayer.gd::GDScript::-1::1724767247::0::1::::<>CanvasLayer<>::
 coletavel2.gd::GDScript::-1::1724674384::0::1::::<>Area2D<>::
 coletavel.gd::GDScript::-1::1723643694::0::1::::<>Area2D<>::
 CollisionShape2D.gd::GDScript::-1::1723641687::0::1::::<>CollisionShape2D<>::
 Control.gd::GDScript::-1::1724152724::0::1::::<>Control<>::
 Global.gd::GDScript::-1::1723644680::0::1::::<>Node<>::
-leve_01.gd::GDScript::-1::1724674589::0::1::::<>Node2D<>::
+leve_01.gd::GDScript::-1::1724766522::0::1::::<>Node2D<>::
 MelanciaNormal2.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
 MelanciaNormal3.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
 MelanciaNormal4.gd::GDScript::-1::1723643817::0::1::::<>Area2D<>::
@@ -58,9 +58,10 @@ MelonBom - Mal.png::CompressedTexture2D::7352928152955250437::1723642241::172364
 MelonBom.png::CompressedTexture2D::5260594243157684058::1723642241::1723642235::1::::<><>::
 ::res://Assets_aula1/Terrain/::1723642241
 Terrain (16x16).png::CompressedTexture2D::751145777491939131::1723642241::1723642235::1::::<><>::
-::res://Nova pasta/::1724677663
-aula01.tscn::PackedScene::8029405789051985729::1724677663::0::1::::<><>::res://leve_01.gd<>res://Player.gd<>uid://qdjtlw5fbb71::::res://Assets_aula1/Character/Fall (32x32).png<>uid://bmxgs8tvmcdpp::::res://Assets_aula1/Character/Hit (32x32).png<>uid://b5dpdv26h2b2w::::res://Assets_aula1/Character/Idle (32x32).png<>uid://drundus3xyj0s::::res://Assets_aula1/Character/Jump (32x32).png<>uid://e3tp5n46n3tm::::res://Assets_aula1/Character/Run (32x32).png<>uid://kx4i47wmgxqp::::res://Assets_aula1/Terrain/Terrain (16x16).png<>res://coletavel.gd<>uid://dxgk617lmw4qj::::res://Assets_aula1/Coletavel/Collected.png<>uid://cg7jhox7hlqas::::res://Assets_aula1/Coletavel/MelonBom.png<>res://MelanciaNormal2.gd<>res://MelanciaNormal3.gd<>res://MelanciaNormal4.gd<>res://MelanciaNormal5.gd<>res://MelanciaNormal6.gd<>res://MelanciaNormal7.gd<>res://MelanciaNormal8.gd<>res://MelanciaNormal9.gd<>res://MelanciaNormal10.gd<>res://MelanciaNormal11.gd<>res://MelanciaNormal12.gd<>res://MelanciaNormal13.gd<>res://MelanciaNormal14.gd<>res://MelanciaNormal15.gd<>res://MelanciaNormal16.gd<>res://MelanciaNormal17.gd<>res://MelanciaNormal18.gd<>res://coletavel2.gd<>uid://dc02wggbrr7gb::::res://Assets_aula1/Coletavel/MelonBom - Mal.png<>res://Armadilha.gd<>uid://chfy662u6hsxd::::res://Assets_aula1/Armadilha/On (38x38).png<>uid://bkfyq1xgscig1::::res://Pixel Adventure 1/Free/Items/Fruits/Collected.png<>uid://bjjm33uknxisc::::res://Pixel Adventure 1/Free/Items/Fruits/Strawberry.png<>uid://dvoxfdgbmwc2g::::res://menu.tscn<>res://Control.gd
-menu.tscn::PackedScene::2814892589249635107::1724677663::0::1::::<><>::res://CanvasLayer.gd
+::res://Nova pasta/::1724768143
+aula01.tscn::PackedScene::8029405789051985729::1724768143::0::1::::<><>::res://leve_01.gd<>res://Player.gd<>uid://qdjtlw5fbb71::::res://Assets_aula1/Character/Fall (32x32).png<>uid://bmxgs8tvmcdpp::::res://Assets_aula1/Character/Hit (32x32).png<>uid://b5dpdv26h2b2w::::res://Assets_aula1/Character/Idle (32x32).png<>uid://drundus3xyj0s::::res://Assets_aula1/Character/Jump (32x32).png<>uid://e3tp5n46n3tm::::res://Assets_aula1/Character/Run (32x32).png<>uid://kx4i47wmgxqp::::res://Assets_aula1/Terrain/Terrain (16x16).png<>res://coletavel.gd<>uid://dxgk617lmw4qj::::res://Assets_aula1/Coletavel/Collected.png<>uid://cg7jhox7hlqas::::res://Assets_aula1/Coletavel/MelonBom.png<>res://MelanciaNormal2.gd<>res://MelanciaNormal3.gd<>res://MelanciaNormal4.gd<>res://MelanciaNormal5.gd<>res://MelanciaNormal6.gd<>res://MelanciaNormal7.gd<>res://MelanciaNormal8.gd<>res://MelanciaNormal9.gd<>res://MelanciaNormal10.gd<>res://MelanciaNormal11.gd<>res://MelanciaNormal12.gd<>res://MelanciaNormal13.gd<>res://MelanciaNormal14.gd<>res://MelanciaNormal15.gd<>res://MelanciaNormal16.gd<>res://MelanciaNormal17.gd<>res://MelanciaNormal18.gd<>res://coletavel2.gd<>uid://dc02wggbrr7gb::::res://Assets_aula1/Coletavel/MelonBom - Mal.png<>res://Armadilha.gd<>uid://chfy662u6hsxd::::res://Assets_aula1/Armadilha/On (38x38).png<>uid://bkfyq1xgscig1::::res://Pixel Adventure 1/Free/Items/Fruits/Collected.png<>uid://bjjm33uknxisc::::res://Pixel Adventure 1/Free/Items/Fruits/Strawberry.png<>res://Nova pasta/Vida.gd<>res://Control.gd
+menu.tscn::PackedScene::2814892589249635107::1724768143::0::1::::<><>::res://CanvasLayer.gd
+Vida.gd::GDScript::-1::1724766895::0::1::::<>Control<>::
 ::res://Pixel Adventure 1/::1724162202
 ::res://Pixel Adventure 1/Free/::1724162204
 20 Enemies.png::CompressedTexture2D::2342831756853526142::1724162202::1724162204::1::::<><>::
